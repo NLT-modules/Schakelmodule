@@ -31,3 +31,7 @@ site:
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
+
+ jupyter:
+      binder:
+        repo: freekpols/NLT-module
