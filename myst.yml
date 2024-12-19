@@ -15,8 +15,7 @@ project:
       template: plain_latex_book
       output: exports/book.pdf  
 
-  downloads: 
-    - file: inleiding.md
+  downloads:
     - file: exports/book.pdf
   
   toc:
