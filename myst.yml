@@ -17,6 +17,7 @@ project:
 
   downloads: 
     - file: inleiding.md
+    - file: exports/book.pdf
   
   toc:
     - file: intro.md
