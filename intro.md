@@ -1,5 +1,6 @@
 # Schakelmodule Digitale Technologie - online materiaal 
 
+|||
 |--|--|
 |Auteurs| Digitaal Redacteur ; Rudy Jonker ; H. Dirks|
 |Team| Schakelmodule Digitale Technologie|

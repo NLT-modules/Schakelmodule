@@ -8,10 +8,11 @@ Tijdens deze module ga je bekend raken met digitale techniek. Digitale techniek 
 ## Structuur van de module
 
 Digitale techniek bestaat uit een aantal onderdelen. Dat wordt schematisch weergegeven in figuur 1. Vrijwel alle systemen nemen iets uit hun omgeving waar. De koelkast meet de temperatuur in de koelkast, een satelliet in de ruimte neemt bepaalde golflengtes licht waar, een telefoon neemt een signaal van de zendmast waar etc. Dat waarnemen gebeurt met sensoren. Hoofdstuk 3 van de schakelmodule gaat over de waarnemingskant van een digitaal systeem. Vervolgens wordt die waarneming omgezet in een digitaal signaal. Dat betekent dat dat wat gemeten wordt omgezet wordt naar informatie waar computers mee overweg kunnen, 1'en en 0'en, wat we digitale data noemen. Die data worden vervolgens verwerkt (hoofdstuk 4) en opgeslagen en getransporteerd (hoofdstuk 5). Verwerken betekent dat er op basis van de data vervolgacties worden vastgesteld. Als de koelkast te warm is, moet de koelmotor aan, als een telefoon het signaal verliest, gaat hij op zoek naar een nieuw signaal, als het niveau in de brandstoftank te laag wordt, gaat het lampje aan etc. Die vervolgactie, de uitvoer, vindt plaats door actuatoren. Dat zijn apparaten die in de echte omgeving een effect hebben. Een lampje dat aangaat, een motor die gaat draaien, een speaker die geluid geeft, dat zijn allemaal actuatoren die aan het werk worden gezet. Deze uitvoer ('output') van een digitaal systeem komt in hoofdstuk 6 aan bod.
+
+
 ![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-04.jpg?height=915&width=1237&top_left_y=1570&top_left_x=421)
 
-Figuur 1. Alle onderdelen van digitale techniek. Dit figur gaat vaak terugkomen in deze module
-wikiwijs
+Figuur 1. Alle onderdelen van digitale techniek. Dit figuur gaat vaak terugkomen in deze module wikiwijs
 
 ## Combinatie met andere modules
 
@@ -33,9 +34,6 @@ Tijdens dit hoofdstuk leer je:
 - Dat je leert nadenken over technische oplossingen voor problemen en deze oplossingen kunt realiseren.
 
 
-
-
-
 ## Studeren en werken in de digitale technologie: kunstmatige Intelligentie filmpjes van Daan Geijs
 
 Daan Geijs heeft over zijn opleiding en werk vier filmpjes gemaakt. Hij vertelt over zijn opleiding en onderzoek, en waar hij later aan de slag kan met zijn kennis van digitale technologie.
@@ -44,16 +42,24 @@ Daan Geijs heeft over zijn opleiding en werk vier filmpjes gemaakt. Hij vertelt 
 - 2 wat Kunstmatige Intelligentie is, en waar het voor gebruikt kan worden
 - 3 welke rol kunstmatige intelligentie in het ziekenhuis kan hebben: promotieonderzoek bij het Radboud UMC
 - 4 welk werk Daan hierna kan gaan doen
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-06.jpg?height=278&width=284&top_left_y=1072&top_left_x=172)
 
-睤
-1 Introductie digitale technologie. Daan Geijs vertelt over zijn studiekeuze e n opleiding
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-06.jpg?height=275&width=407&top_left_y=1436&top_left_x=172)
+:::{iframe} https://www.youtube.com/embed/H94a2UCkYXY?si=FfraI1EZW89KgO0u
+:width: 100%
+Introductie digitale technologie. Daan Geijs vertelt over zijn studiekeuze en opleiding
+:::
 
-2 Wat is kunstmatige intelligentie? Daan Geijs vertelt wat er met digitale tec hnologie mogelijk is.
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-06.jpg?height=278&width=405&top_left_y=1797&top_left_x=172)
+:::{iframe} https://www.youtube.com/embed/p9vdykaXKg4?si=tPLVAR2QBxXuUt3P
+:width: 100%
+Wat is kunstmatige intelligentie? Daan Geijs vertelt wat er met digitale technologie mogelijk is.
+:::
 
-3 Kunstmatige intelligentie in het ziekenhuis. Daan Geijs vertelt over zijn on derzoek aan het herkennen van tumoren met de computer.
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-06.jpg?height=277&width=284&top_left_y=2163&top_left_x=172)
--
-4 Daan Geijs over het werk dat hij in de toekomst kan gaan doen
+:::{iframe} https://www.youtube.com/embed/VqiOqBVe_08?si=AgNrHpzYwlDw89vj
+:width: 100%
+Kunstmatige intelligentie in het ziekenhuis. Daan Geijs vertelt over zijn onderzoek aan het herkennen van tumoren met de computer.
+:::
+
+:::{iframe} https://www.youtube.com/embed/3t5nQqr28II?si=En2x0JMG6eo66mdk
+:width: 100%
+Daan Geijs over het werk dat hij in de toekomst kan gaan doen
+:::
+
