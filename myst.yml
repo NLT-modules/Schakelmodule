@@ -8,7 +8,7 @@ project:
   # authors: []
   license: CC-BY-SA-4.0
   jupyter: true
-  github: https://github.com/FreekPols/NLT-module
+  github: https://github.com/NLT-modules/Schakelmodule
     
   exports:
     - format: pdf
