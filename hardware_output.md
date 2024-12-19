@@ -1,6 +1,4 @@
 (ch4)=
-
-
 # Hardware voor de output van een digitaal systeem
 
 ## LED
@@ -15,7 +13,7 @@ De LED wordt geleidend en gaat licht uitzenden zodra er een stroom in de juiste 
 
 ## Waar moet je op letten bij gebruik van een LED?
 
-* Een LED is kwetsbaar, overschreid de maximum stroom niet! Gebruik daarom ALTIJD een voorschakelweerstand in serie met de LED. Deze zal de stroom begrenzen op de gewenste waarde en de grootte van de benodigde weerstand is afhankelijk van aangeboden spanning. Hte maakt niet uit of je de weerstand in de pluslijn of in de minlijn plaatst.
+* Een LED is kwetsbaar, overschrijd de maximum stroom niet! Gebruik daarom ALTIJD een voorschakelweerstand in serie met de LED. Deze zal de stroom begrenzen op de gewenste waarde en de grootte van de benodigde weerstand is afhankelijk van aangeboden spanning. Hte maakt niet uit of je de weerstand in de pluslijn of in de minlijn plaatst.
 
 
 ## Als vuistregel mag je de volgende waarden hanteren:
@@ -25,7 +23,7 @@ De LED wordt geleidend en gaat licht uitzenden zodra er een stroom in de juiste 
 
 Soms krijg je een LED waarbij al een weerstand in serie is gemonteerd, zie de foto voor een voorbeeld hiervan.
 
-# weerstand met waarde 560 Ohm 
+weerstand met waarde 560 Ohm 
 
 ## LED RGB
 
@@ -46,33 +44,34 @@ pixels.setPixelColor(i, pixels.Color(0, 150, 0));
 Met bovenstaande code wordt nr i aangezet met een kleur die beschreven wordt met het pixels.Color commando. De 0,150,0 staat voor de intensiteit van de kleuren Rood Groen en Blauw (RGB). Dit zal dus een LED een milde groene kleur laten aannemen. De intensiteit kan van 0 tot 255 lopen.
 
 Dus met:
-pixels.setPixeIColor(8, pixels.Color(255, 0, 0));
+`pixels.setPixeIColor(8, pixels.Color(255, 0, 0));`
 zetten we LED nr 8 op de strip aan met een felrode kleur.
 Hieronder zie je een voorbeeld van een code waarmee je een Neopixel bestuurt. Dit betreft een Neopixel van 10 LED's, maar ook voor een Neopixel van 100 LED's kun je deze code gebruiken (alleen het getal 10 vervangen door 100).
-```{code-cell} C
-\#include <Adafruit_NeoPixel.h>
-\#ifdef _AVR
-\#include <avr/power.h>
-\#endif
-\#define Neopixel 7
 
+```{code-cell} C
+#include <Adafruit_NeoPixel.h>
+#ifdef _AVR
+#include <avr/power.h>
+#endif
+#define Neopixel 7
 
 Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUMPIXELS, Neopixel, NEO_GRB + NEO_KHZ800);
 int delayval = 50;
+
 void setup() {
-pixels.begin();
+    pixels.begin();
 }
 void loop() {
-for(int i=0;i<NUMPIXELS;i++){
-pixels.setPixelColor(i, pixels.Color(0,150,0));
-pixels.show();
-delay(delayval);
-}
-for(int i=0;i<NUMPIXELS;i++){
-pixels.setPixelColor(i, pixels.Color(0,0,0));
-pixels.show();
-delay(1);
-}
+    for(int i=0;i<NUMPIXELS;i++){
+        pixels.setPixelColor(i, pixels.Color(0,150,0));
+        pixels.show();
+        delay(delayval);
+    }
+    for(int i=0;i<NUMPIXELS;i++){
+        pixels.setPixelColor(i, pixels.Color(0,0,0));
+        pixels.show();
+        delay(1);
+    }
 }
 ```
 
@@ -91,7 +90,7 @@ De LCD die jullie kunnen gebruiken bevat 4 regels (20x04) waarop karakters kunne
 Hieronder vind je een code die werkt. Het blijkt in de praktijk wel tricky te zijn om zo'n display werkend te krijgen, er staan namelijk een hoop voorbeelden op het web waar fouten in zitten. Daarnaast heb je
 twee libraries nodig. Een library is een collectie van programmeercommando's die samen helpen om bepaalde taken uit te voeren. De libraries die je hier nodig hebt zijn wire.h en LiquidCrystal_I2c.h.
 
-Wire.h is standaard geïnstalleerd, maar die andere niet. Via de link hieronder vind je een zip bestand. In de arduino omgeving kun je zo'n bibliotheek inladen vanuit een zip bestand (zie screenshot hieronder).
+Wire.h is standaard geïnstalleerd, maar die andere niet. Via de link hieronder vind je een zip bestand. In de Arduino omgeving kun je zo'n bibliotheek inladen vanuit een zip bestand (zie screenshot hieronder).
 ![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-28.jpg?height=395&width=829&top_left_y=516&top_left_x=611)
 
 Een "kale" display met veel aansluitingen.

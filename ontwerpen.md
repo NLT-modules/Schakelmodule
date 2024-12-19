@@ -5,7 +5,7 @@ Jullie gaan tijdens deze module tot een prototype komen. Daar is een bepaalde ma
 
 ## 1 - Probleemstelling
 
-Als eerste moet je vaststellen voor welk probleem je een oplossing gaat ontwerpen. Stel: je kat gaat iedere vakantie dood van de honger omdat je weg bent en er niemand eten kan geven, en jij wilt een apparaat bouwen dat de kat automatisch eten geeft. Of: de vogels in het vogelhuisje in de tuin raken oververhit in de zomer en je wilt iets bouwen dat het vogelhuisje koelt als de temperatur te heet wordt. Of: Je wilt een wekker bouwen die licht geeft als de alarmtijd aangebroken is.
+Als eerste moet je vaststellen voor welk probleem je een oplossing gaat ontwerpen. Stel: je kat gaat iedere vakantie dood van de honger omdat je weg bent en er niemand eten kan geven, en jij wilt een apparaat bouwen dat de kat automatisch eten geeft. Of: de vogels in het vogelhuisje in de tuin raken oververhit in de zomer en je wilt iets bouwen dat het vogelhuisje koelt als de temperatuur te heet wordt. Of: Je wilt een wekker bouwen die licht geeft als de alarmtijd aangebroken is.
 
 Je ziet het al: het doel van je ontwerp (nml. het oplossen van een probleem) bepaal je zelf. Het is handig om het probleem zo concreet mogelijk te omschrijven. Als je doel bijv. 'wereldvrede' is, dan is dat veel te breed en te vaag om een goed startpunt te zijn voor een ontwerpcyclus. Vaak kom je in een ontwerpcyclus later nog terug op het probleem als je er in eerste instantie achter komt dat het probleem te groot is om met je ontwerp op te lossen. In dat geval stel je je doel bij (tenzij je een opdracht hebt gekregen van een opdrachtgever, dan moet je van tevoren inschatten of het haalbaar is).
 
@@ -29,7 +29,7 @@ stel dat je bij een wake-up light in de 1e ronde alleen de code schrijft die de 
 
 ## 5 - Prototype
 
-Nu ga je aan het bouwen. Je zorgt dat je de stappen die je hebt gemaakt werkend hebt (dus als je een code hebt die de klok laat lopen en op een display laat verschijnen, dan laad je niet alleen de code op de Arduino, maar je sluit ook alle draadjes aan voor de display, zodat het systeem ook daadwerkelijk kan werken. Dit is de leukste stap, maar ook de frustrerendste, omdat er vaak dingen niet werken of door jou slecht zijn uitgedacht of voorbereid. Dat hoort erbij, deal with it.
+Nu ga je aan het bouwen. Je zorgt dat je de stappen die je hebt gemaakt werkend hebt (dus als je een code hebt die de klok laat lopen en op een display laat verschijnen, dan laad je niet alleen de code op de Arduino, maar je sluit ook alle draadjes aan voor de display, zodat het systeem ook daadwerkelijk kan werken). Dit is de leukste stap, maar ook het meest frustrerende, omdat er vaak dingen niet werken of door jou slecht zijn uitgedacht of voorbereid. Dat hoort erbij, deal with it.
 
 ## 6 - Evaluatie
 
@@ -37,7 +37,7 @@ Dit is een hele belangrijke stap, en een stap waarvan het heel belangrijk is dat
 
 Om te zorgen dat je niet steeds dezelfde problemen tegenkomt is het belangrijk dat je je evaluatie gestructureerd aanpakt. Zorg dat je de datum vermeld, wat werkte er wel, wat werkte er niet, en je vermoedens waar het aan ligt.
 
-Ga in deze fase niet eindeloos lopen prutsen, maar pak de verbetering gestructureerd aan door weer terug te gaan naar je pakket van eisesn, deeluitwerkingen etc. en een goed plan te maken voor de volgende verbetering. Zo ga je dus nog een keer de ontwerpcyclus in. Bij dit project kun je zo 10-15 ontwerpcycli doorlopen. Het is dus ook slim om je codes van je Arduinoprogramma een versienummer te geven, zodat je altijd achteraf kunt laten zien wat er steeds is veranderd, of dat als je in versie 5 iets blijkt gesloopt te hebben wat in versie 4 nog werkt, je altijd weer terug kan gaan naar de laatst werkende versie.
+Ga in deze fase niet eindeloos lopen prutsen, maar pak de verbetering gestructureerd aan door weer terug te gaan naar je pakket van eisen, deeluitwerkingen etc. en een goed plan te maken voor de volgende verbetering. Zo ga je dus nog een keer de ontwerpcyclus in. Bij dit project kun je zo 10-15 ontwerpcycli doorlopen. Het is dus ook slim om je codes van je Arduino programma een versienummer te geven, zodat je altijd achteraf kunt laten zien wat er steeds is veranderd, of dat als je in versie 5 iets blijkt gesloopt te hebben wat in versie 4 nog werkt, je altijd weer terug kan gaan naar de laatst werkende versie.
 
 ## 7 - Contexten
 
