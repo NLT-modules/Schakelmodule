@@ -8,7 +8,7 @@ project:
   # authors: []
   license: CC-BY-4.0-SA
   jupyter: true
-  github: https://freekpols.github.io/NLT-module
+  github: https://freekpols.github.io/NLT-module/main
   exports:
     - format: pdf
       template: plain_latex_book
