@@ -6,6 +6,8 @@ project:
   # description:
   # keywords: []
   # authors: []
+  license: CC-BY-4.0-SA
+  thebe: true
   github: https://freekpols.github.io/NLT-module
   exports:
     - format: pdf
@@ -21,6 +23,7 @@ project:
     - file: hardware_output.md
     - file: hardware_opslag.md
     - file: voeding.md
+    - file: pyton.ipynb
     
 site:
   template: book-theme

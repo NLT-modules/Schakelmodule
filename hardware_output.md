@@ -203,7 +203,7 @@ inputA inputB outputA outputB motor
 ## 0101 linksom
 
 ## 1111 uit
-
+```{code-cell} C
 // pwm analogWrite op pin D05 490Hz
 // pwm analogWrite op pin D06 490Hz
 const int LINKS = 5; // motor pwm signaal op pin D04
@@ -226,6 +226,7 @@ delay(2000); // wacht xx ms
 analogWrite(LINKS,0);
 analogWrite(RECHTS,0);
 delay(500); // wacht xx ms
+```
 
 ## Ventilator
 
@@ -252,7 +253,7 @@ Zie onderstaande voorbeeldschakeling. Naast de twee relais heb je uiteraard ook 
 In rust staan beide relais in de ruststand. De motor is dan met beide aansluitingen verbonden met de pool van de voeding.
 
 Er gebeurt dan dus niks.
-De truuk zit hem in het afzonderlijk aansturen van één van de relais. Dan krijgt de motor energie toegeveord, via het ene relais zal de motor met de klok mee draaien, met het andere relais tegen de klok in!
+De truck zit hem in het afzonderlijk aansturen van één van de relais. Dan krijgt de motor energie toegevoerd, via het ene relais zal de motor met de klok mee draaien, met het andere relais tegen de klok in!
 ![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-34.jpg?height=721&width=1535&top_left_y=182&top_left_x=266)
 
 ## Stappenmotor
