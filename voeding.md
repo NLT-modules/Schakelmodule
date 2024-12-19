@@ -21,7 +21,7 @@ De structuur van een code ziet er globaal zo uit:
 
 Het eerste gedeelte heeft geen naam, het $2^{\mathrm{e}}$ gedeelte noemen we de void setup, het $3^{\mathrm{e}}$ gedeelte noemen we void loop. We gaan dit verduidelijken met behulp van onderstaande figuur
 
-```
+```{code-cell} C
 const int LMMP = 8;
 const int KNOP = 2;
 void setup()
@@ -58,7 +58,7 @@ In regel 12 wordt een object gedefinieerd met de naam KnopStatus. Je kunt ook in
 
 In regel 12 staat een if commando. Dat commando kijkt of de waarde tussen de haakjes erachter waar is of niet. In dit geval checkt hij of de waarde van KnopStatus gelijk is aan 1 .
 
-Als je goed kijkt zie je dat hier == staat. == betekent het dat de computer moet kijken of hetgene links en rechts van het =--teken gelijk zijn. = betekent dat je een waarde toekent aan een object. = gebruiken binnen de haakjes van if levert dus een foutmelding op.
+Als je goed kijkt zie je dat hier == staat. == betekent het dat de computer moet kijken of hetgeen links en rechts van het =--teken gelijk zijn. = betekent dat je een waarde toekent aan een object. = gebruiken binnen de haakjes van if levert dus een foutmelding op.
 
 Als datgene wat tussen de staat haakjes waar is, wordt dat wat tussen de accolades staat van if uitgevoerd. Net als bij void setup en void loop eindigt een if niet met ; maar staan er accolades. Dit kan bij complexere code ingewikkeld worden omdat je dan een if binnen een if binnen een if kunt krijgen en dat je erg goed moet bijhouden hoe het zit met de accolades. Een tip hierbij is om de accolades die bij elkaar horen op dezelfde afstand van de kantlijn te plaatsen. Je ziet bijvoorbeeld dat de accolade op regel 11 even dicht bij de kantlijn staat als de accolade in regel 19. Die van regel 19 sluit dus die van regel 11 af. Vaak wordt de openingsaccolade direct achter de if of else geplaatst. De openingsaccolade van regel 13 hoort bij de sluitingsaccolade van regel 15 en de openingsaccolade van regel 15 hoort bij de sluitingsaccolade van regel 17.
 
@@ -125,7 +125,7 @@ Ik begin met de klok die moet lopen. Ik wil de uren en minuten laten zien, en ee
 
 ## Ontwerp:
 
-```
+```{code-cell} C
 long int mins = 0;
 long int hrs = 0;
 long int seconds = 0;
@@ -145,7 +145,7 @@ if(mins==60){
 mins = 0; // als het aantal minuten 60 wordt, reset hem naar 0 en doe de uren +1
 hrs = hrs+1;
 if(hrs==24){
-```
+
 
 hrs=0; //als het aantal uren 24 wordt, reset hem naar 0
 \}
@@ -159,6 +159,8 @@ Serial.print(seconds);
 Serial.print(" ");
 //Serial.println(calctime);
 \}
+```
+
 ![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-46.jpg?height=275&width=278&top_left_y=816&top_left_x=181)
 
 De klok in werking
@@ -166,61 +168,3 @@ De klok in werking
 ## Evaluatie
 
 De klok doet het. Ik wilde eerst iets doen met het vastleggen van een tijd, en dan als die tijd een minuut geleden was, de minuten +1 doen, maar dat bleek veel te veel geklooi op te leveren. Daarom heb ik gekozen voor een delay. Mocht de code later nou zo ingewikkeld worden dat het uitvoeren van de code lang duurt (waardoor de tijd van 1 seconde op de klok dus 1000ms PLUS de verwerkingstijd van de code zou duren) heb ik twee regels ingebouwd waarmee ik kan meten hoe lang de code duurt. Als het dan nodig is kan ik de delay verkleinen om voor de verwerkingstijd van de code te corrigeren. Op naar de display en de knopjes!
-
-## Wall of Fame
-
-Omdat deze module door veel scholen gebruikt wordt en daar allemaal leerlingen coole ontwerpen maken zijn er ongetwijfeld prachtige ontwerpen om hier te presenteren. Wil je jouw (beste) ontwerp op deze site? Stuur dan een stukje tekst met wat foto's of evt. een linkje naar een youtubefilmpje. Zorg dat het doel van je ontwerp duidelijk is en voor welke oplossingen je gekozen hebt.
-
-## Over dit lesmateriaal
-
-## Colofon
-
-Auteurs Digitaal Redacteur; Rudy Jonker; H. Dirks
-Team
-Laatst gewijzigd
-Licentie
-
-Schakelmodule Digitale Technologie 24 februari 2023 om 13:06
-De Internationale Creative Commons 4.0 licentie waarbij de gebruiker het werk mag kopiëren, verspreiden en doorgeven en afgeleide werken mag maken onder de voorwaarden: Naamsvermelding en Gelijk Delen, zie http://creativecommons.org/licenses/by-sa/4.0/.
-Meer informatie over de CC Naamsvermelding-GelijkDelen 4.0 Internationale licentie licentie.
-
-## Aanvullende informatie over dit lesmateriaal
-
-Van dit lesmateriaal is de volgende aanvullende informatie beschikbaar:
-Eindgebruiker leerling/student
-Studiebelasting 4 uur en 0 minuten
-
-## Bronnen
-
-Slimme regenton
-https://slimmeregenton.nl/
-1 Introductie digitale technologie. Daan Geijs vertelt over zijn studiekeuze en opleiding https://youtu.be/H94a2UCkYXY
-
-2 Wat is kunstmatige intelligentie? Daan Geijs vertelt wat er met digitale technologie mogelijk is. https://youtu.be/p9vdykaXKg4
-
-3 Kunstmatige intelligentie in het ziekenhuis. Daan Geijs vertelt over zijn onderzoek aan het herkennen van tumoren met de computer.
-https://youtu.be/VqiOqBVe_08
-4 Daan Geijs over het werk dat hij in de toekomst kan gaan doen
-https://youtu.be/3t5nQqr28II
-Tinkercad TMP36
-https://www.tinkercad.com/things/94VFdq4ienj-copy-of-tmp36-temperature-sensor-witharduino/editel?tenant=circuits
-
-Potentiometer
-https://youtu.be/H3hSQgZxNe0
-Ultrasone sensor
-https://youtu.be/eYJg_Yp-Fys
-Tutorial voor de ultrasone sensor
-https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6
-
-Arduino tutorial neopixel
-https://create.arduino.cc/projecthub/robocircuits/neopixel-tutorial-1ccfb9
-Neopixel voorbeeld
-https://youtu.be/ANoG6DoSFHA
-link naar liquidcrystal_i2c (datum link: 7-2-2022)
-https://downloads.arduino.cc/libraries/github.com/marcoschwartz/LiquidCrystal I2C-1.1.2.zip
-
-Voorbeeldschakeling met Arduino, Relais en Lamp.
-https://maken.wikiwijs.nl/152360/NLT_Digitale_Techniek_TCC\#! page-7105936
-De klok in werking
-https://youtu.be/nmrz2QJYan4
-

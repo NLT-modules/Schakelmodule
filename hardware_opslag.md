@@ -110,7 +110,8 @@ Het goed gebruiken van de SD kaart is een van de pittigste onderdelen van je sys
 Daarnaast is de code voor het wegschrijven naar de SD kaart best complex (zie onder). Het vergt enige oefening om al je andere code op de juiste plek in de code neer te zetten waardoor alle verschillende onderdelen samen werken. In hoofdstuk 8 ga je hier vanzelf een voorbeeld van zien. Omdat jullie allemaal iets anders gaan maken, zal voor iedereen de uiteindelijke oplossing anders zijn.
 ![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-38.jpg?height=1117&width=1543&top_left_y=301&top_left_x=265)
 
-Aans/uitschema voor een micro-sd cardreader
+Aan/uitschema voor een micro-sd cardreader
+```{code-cell} C
 \#include <SPI.h>
 \#include <SD.h>
 File myFile;
@@ -136,7 +137,7 @@ myFile.printIn("testing 1, 2, 3.");
 for (int i = 0; i < 20; i++) \{
 myFile.printIn(i);
 
-```
+
 }
 // close the file:
 myFile.close();

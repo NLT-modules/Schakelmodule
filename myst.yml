@@ -23,7 +23,8 @@ project:
     - file: hardware_output.md
     - file: hardware_opslag.md
     - file: voeding.md
-    - file: pyton.ipynb
+    - file: python.ipynb
+    - file: colofon.md
     
 site:
   template: book-theme
