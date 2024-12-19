@@ -7,7 +7,7 @@ project:
   # keywords: []
   # authors: []
   license: CC-BY-4.0-SA
-  thebe: true
+  jupyter: true
   github: https://freekpols.github.io/NLT-module
   exports:
     - format: pdf
@@ -32,6 +32,3 @@ site:
   #   favicon: favicon.ico
   #   logo: site_logo.png
 
- jupyter:
-      binder:
-        repo: freekpols/NLT-module
