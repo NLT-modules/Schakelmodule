@@ -49,13 +49,14 @@ Dus met:
 pixels.setPixeIColor(8, pixels.Color(255, 0, 0));
 zetten we LED nr 8 op de strip aan met een felrode kleur.
 Hieronder zie je een voorbeeld van een code waarmee je een Neopixel bestuurt. Dit betreft een Neopixel van 10 LED's, maar ook voor een Neopixel van 100 LED's kun je deze code gebruiken (alleen het getal 10 vervangen door 100).
+```{code-cell} C
 \#include <Adafruit_NeoPixel.h>
 \#ifdef _AVR
 \#include <avr/power.h>
 \#endif
 \#define Neopixel 7
 
-```
+
 Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUMPIXELS, Neopixel, NEO_GRB + NEO_KHZ800);
 int delayval = 50;
 void setup() {
@@ -108,7 +109,7 @@ Display voorzien van i2c interface: aansluitvoorbeeld.
 
 Onderstaande code start de display, en laat de tekst 'hello world' zien. Daarna start er een teller die vrij rap oploopt (het geprinte 'nummer' wordt in elke loop met 1 opgehoogd).
 
-```
+```{code-cell} C
 int nummer = 0;
 #include "Wire.h" // For I2C
 #include "LiquidCrystal_I2C.h" // Added library*
@@ -189,10 +190,15 @@ Solid State Switch (Elektronische Schakelaar) om 2 motoren te regelen.
 
 Met het commando analogWrite(naam,waarde) geef je de opdracht om het signaal aan de uitgangspoort beschikbaar te maken. naam Is de naam die je aan de poort hebt gegeven. Let er op dat niet alle uitgangen van de Arduino geschikt zijn voor een PWM signaal.
 waarde Is de gemiddelde waarde die je wilt dat het signaal heeft. Deze is instelbaar tussen 0\% (UIT) en 100\% (AAN).
+
 formule: Duty cycle = (waarde / 255) [\%]
+
 Duty cycle 0\% = 0
+
 Duty cycle 50\% = 127
+
 Duty cycle 100\% = 255
+
 onderstaand een voorbeeldcode voor de combinatie Arduino / Chip L9110 / DC motor
 Het IC L9110 heeft 2 ingangen waarmee je 2 uitgangen schakelt (de twee draden die naar de motor gaan).Het IC schakelt volgens een waarheidstabel:
 inputA inputB outputA outputB motor

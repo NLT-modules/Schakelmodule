@@ -25,6 +25,7 @@ Je moet in de code aangeven in welke poort het signaal van de drukknop binnenkom
 ![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-14.jpg?height=1739&width=1717&top_left_y=536&top_left_x=175)
 
 Een schakeling waarmee een drukknop een LED bedient
+```{code-cell} C
 // Pin 2 has an pushbutton connected on most Arduino boards.
 // give it a name:
 int pushButton = 2;
@@ -52,6 +53,7 @@ delay(1000);
 \} else
 \{\}
 \}
+```
 
 ## Magneetcontact
 
@@ -81,7 +83,7 @@ https://www.tinkercad.com/things/94VFdq4ienj-copy-of-tmp36-temperatur e-sensor-w
 
 De code die je kunt gebruiken:
 
-```
+```{code-cell} C
 int baselineTemp = 0;
 int celsius = 0;
 int fahrenheit = 0;
@@ -96,9 +98,7 @@ pinMode(4, OUTPUT);
 void loop()
 {
 baselineTemp = 40;
-```
 
-```
 celsius = map(((analogRead(A0) - 20) * 3.04), 0, 1023, -40, 125);
 fahrenheit = ((celsius * 9) / 5 + 32);
 Serial.print(celsius);
@@ -179,7 +179,7 @@ Hieronder zie je een aansluitschema voor de microfoon. Een microfoon is eigenlij
 Als je echt de microfoon als input wilt gebruiken zul je nog een flinke bewerking met de gegevens moeten uitvoeren. Dat kan vrij complex zijn, en je moet wat weten over geluid. We zullen hier t.z.t. meer informatie over opnemen.
 ![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-21.jpg?height=966&width=1668&top_left_y=1619&top_left_x=197)
 
-Een aans/uitschema voor de microfoon die wij gebruiken
+Een aan/uitschema voor de microfoon die wij gebruiken
 
 ## Klok
 
@@ -206,7 +206,7 @@ wikiwijs
 
 Een voorbeeld van hoe een aangesloten ultrasone sensor eruit ziet
 
-```
+```{code-cell} C
 int trigPin = 9; // TRIG pin Serial.begin (9600); void loop() {
 digitalWrite(trigPin, HIGH); duration_us = pulseIn(echoPin, HIGH); delay(500);
 ```

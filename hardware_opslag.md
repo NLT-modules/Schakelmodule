@@ -40,7 +40,7 @@ De beide buslijnen hebben in de ruststand een hoog niveau: logische "1". (5 Volt
 
 Als je I2C apparatuur aan gaat sluiten krijgt elk apparaat een uniek adres. Dit is nodig omdat alle info naar alle aangesloten apparaten via hetzelfde draadje moet. In je code moet je dan dus aangeven van elk aangesloten I2C apparaat wat zijn adres is. Maar hoe weet je dan het adres? Met onderstaande code scan je je systeem voor alle adressen van aangesloten I2C apparatuur. Voor een LCD display is het bijv. 0x27.
 
-```
+```{code-cell} C
 /
 // Arduino I2C Scanner
 // Re-writed by Arbi Abdul Jabbaar
@@ -76,9 +76,7 @@ if (error == 0)
 Serial.print("I2C device found at address 0x");
 if (address < 16)
 Serial.print("0");
-```
 
-```
 Serial.print(address, HEX);
 Serial.printIn(" !");
 nDevices++;
@@ -92,10 +90,10 @@ if (nDevices == 0)
 Serial.println("No I2C devices found\n");
 else
 Serial.println("done\n");
-```
 
 delay(5000); // wait 5 seconds for the next I2C scan
 \}
+```
 
 ## (micro) SD card reader
 
@@ -111,6 +109,7 @@ Daarnaast is de code voor het wegschrijven naar de SD kaart best complex (zie on
 ![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-38.jpg?height=1117&width=1543&top_left_y=301&top_left_x=265)
 
 Aan/uitschema voor een micro-sd cardreader
+
 ```{code-cell} C
 \#include <SPI.h>
 \#include <SD.h>
