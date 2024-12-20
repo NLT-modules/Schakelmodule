@@ -8,7 +8,7 @@
 
 ## Colofon
 
-Deze module is bedoeld voor de lessen nlt op havo en vwo. In een later stadium zal voor beide schooltypen een eigen versie beschikbaar komen.
+Deze module is bedoeld voor de lessen NLT op havo en vwo. In een later stadium zal voor beide schooltypen een eigen versie beschikbaar komen.
 
 ## Auteurs
 
@@ -16,7 +16,7 @@ Deze module is bedoeld voor de lessen nlt op havo en vwo. In een later stadium z
 - Rudy Jonker (TCC de Thij, Oldenzaal)
 - Bart Kappé (Veenlanden College, Mijdrecht)
 - Aernout van Rossum (Pre-U, Universiteit Twente; Thomas a Kempis College, Arnhem)
-- Jan Jaap Wietsma (Pre-U, Universiteit Twente, nlt vaksteunpunt Oost; Greijdanus, Zwolle en projectleiding)
+- Jan Jaap Wietsma (Pre-U, Universiteit Twente, NLT vaksteunpunt Oost; Greijdanus, Zwolle en projectleiding)
 - Met ondersteuning van Edgar de Wit (Vereniging NLT)
 
 ## Partners
@@ -62,5 +62,5 @@ De bijlagen, waarnaar verwezen wordt in deze module, zijn in deze gedrukte achte
 |Webadres|https://maken.wikiwijs.nl/171772/|
 
 ## Ondersteuning
-Ondersteuning voor deze module wordt gegeven door nlt vaksteunpunt Oost (nlt@beta-oost.nl).
-De auteurs hebben zo goed mogelijk de bronnen vermeld en gebruik gemaakt van rechtenvrije afbeeldingen. Mochten er desondanks personen of instanties zijn die rechten menen te kunnen doen gelden op tekstgedeeltes, illustraties enz. van deze module, dan worden zij verzocht zich in verbinding te stellen met nlt vaksteunpunt Oost via het genoemde e-mailadres.
+Ondersteuning voor deze module wordt gegeven door NLT vaksteunpunt Oost (nlt@beta-oost.nl).
+De auteurs hebben zo goed mogelijk de bronnen vermeld en gebruik gemaakt van rechtenvrije afbeeldingen. Mochten er desondanks personen of instanties zijn die rechten menen te kunnen doen gelden op tekstgedeeltes, illustraties enz. van deze module, dan worden zij verzocht zich in verbinding te stellen met NLT vaksteunpunt Oost via het genoemde e-mailadres.
