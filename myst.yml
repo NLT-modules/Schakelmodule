@@ -41,5 +41,8 @@ site:
   template: book-theme
   # options:
   #   favicon: favicon.ico
-  #   logo: site_logo.png
+  #   logo: site_logo.pngsite: 
+  options: 
+     hide_outline: true
+     hide_toc: true
 
