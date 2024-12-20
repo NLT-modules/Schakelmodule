@@ -17,15 +17,16 @@ project:
   
   toc:
     - file: intro.md
-    - file: inleiding.md
-    - file: ontwerpen.md
-    - file: hardware.md
-    - file: hardware_input.md
-    - file: hardware_output.md
-    - file: hardware_opslag.md
-    - file: voeding.md
-    - file: python.ipynb
-    - file: colofon.md
+    - file: module.md
+    - file: appendix/inleiding.md
+    - file: appendix/ontwerpen.md
+    - file: appendix/hardware.md
+    - file: appendix/hardware_input.md
+    - file: appendix/hardware_output.md
+    - file: appendix/hardware_opslag.md
+    - file: appendix/voeding.md
+    - file: appendix/python.ipynb
+    - file: appendix/colofon.md
     
 site:
   template: book-theme
