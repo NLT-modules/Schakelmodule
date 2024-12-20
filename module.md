@@ -227,9 +227,7 @@ Om een idee te krijgen wat je over het thema digitale technologie weet en nog zo
 
 ### 1.1 Scrum
 
-Net als overal in de wereld van ICT is samenwerken belangrijk én ingewikkeld. Het ontwikkelen van digitale technologie Vraag ```{exercise}
-
-```t inzet van mensen die allemaal aan een ander stukje van het project werken. Weten wat anderen doen, en vertellen wat jij doet is daarom nodig. Ook als je vast loopt, is het goed om hulp te krijgen. Daarnaast moet voortdurend in beeld blijven wat de gebruiker (klant) wil hebben.
+Net als overal in de wereld van ICT is samenwerken belangrijk én ingewikkeld. Het ontwikkelen van digitale technologie Vraagt inzet van mensen die allemaal aan een ander stukje van het project werken. Weten wat anderen doen, en vertellen wat jij doet is daarom nodig. Ook als je vast loopt, is het goed om hulp te krijgen. Daarnaast moet voortdurend in beeld blijven wat de gebruiker (klant) wil hebben.
 
 Voor de samenwerking in een project en het zo snel mogelijk opsporen van hindernissen is een methodiek ontwikkeld, die we kennen onder de naam Scrum. Het is een 'agile' methode, wat betekent dat het wendbaar is en zich kan aanpassen aan de situatie. De methode is ontwikkeld in de ICT-wereld voor projecten waar software ontwikkeld wordt en wordt nu bij talloze bedrijven, en ook op school, gebruikt.
 
@@ -254,9 +252,7 @@ Regelmatig kijken of iets dat je gemaakt hebt af is en werkt, wordt bij de ontwi
 
 ## Scrum toepassen
 
-In de module kun je scrum ook heel goed gebruiken, bijvoorbeeld om de eindopdracht samen aan te pakken. Precies beschrijven wat er gemaakt moet worden (design), wat daarvoor nodig is en hoe je dat als team aanpakt: dat is waar scrum voor bedoeld is. Je hebt verschillende kwaliteiten in je team nodig, zoals samenwerken, anderen helpen, schrijven, concentreren, overleggen, precies zijn, plannen, stevig doorwerken en dergelijke. De een weet hoe je code schrijft, een ander wat je wilt meten, een handleiding schrijven of praktische verpakking ontwerpen, en een derde kan bruikbare manier bedenken hoe gegevens aan een gebruiker getoond kunnen worden. Elke taak Vraag ```{exercise}
-
-```t weer andere kwaliteiten in je team. Naast algemene kwaliteiten is er ook ervaring met het onderwerp van de module. Daarvoor zijn ruwweg drie mogelijkheden:
+In de module kun je scrum ook heel goed gebruiken, bijvoorbeeld om de eindopdracht samen aan te pakken. Precies beschrijven wat er gemaakt moet worden (design), wat daarvoor nodig is en hoe je dat als team aanpakt: dat is waar scrum voor bedoeld is. Je hebt verschillende kwaliteiten in je team nodig, zoals samenwerken, anderen helpen, schrijven, concentreren, overleggen, precies zijn, plannen, stevig doorwerken en dergelijke. De een weet hoe je code schrijft, een ander wat je wilt meten, een handleiding schrijven of praktische verpakking ontwerpen, en een derde kan bruikbare manier bedenken hoe gegevens aan een gebruiker getoond kunnen worden. Elke taak Vraagt weer andere kwaliteiten in je team. Naast algemene kwaliteiten is er ook ervaring met het onderwerp van de module. Daarvoor zijn ruwweg drie mogelijkheden:
 
 1. Algemeen gebruiker: Je bent iemand die digitale technologie gebruikt (bijvoorbeeld je telefoon, websites of programmatuur), maar ze zelf niet installeert of programmeert.
 2. Beheerder en ontwerper: Je zet computers in elkaar, beheert een website of een server of denkt na over de manier waarop software zou moeten werken.
@@ -364,11 +360,12 @@ Het verwerken van de pulsen in een digitaal systeem gebeurt in heel kleine chips
 
 Een IC zet de spanning op uitgaande metaaldraadjes aan en uit op basis van binnenkomende signalen. Wat de IC precies doet, wordt bepaald door de bedrading én door de stand van de schakelaars. Door tevoren de schakelaars in een bepaalde stand te zetten met stroompulsjes, wordt een IC geprogrammeerd. Soms ligt dat programma vast: de processor is dan gemaakt om altijd hetzelfde te doen. Andere processoren zijn telkens opnieuw programmeerbaar. Alle schakelaars komen in de beginstand als de IC geen stroom meer krijgt (reset). De software kan de IC dan opnieuw programmeren. Die van je mobiel heeft telkens andere klusjes, dus vertelt de app (applicatie, het programma) wat er moet gebeuren. Wat de IC doet wordt bepaald door de regels (algoritmen, zie kader) in de software. Daardoor is een processor flexibel te gebruiken.
 
-### 2.5 Vraag ```{exercise}
+### 2.5 Vraag 
+```{exercise}
+Algoritmen (zie kader) kom je op veel meer plaatsen tegen dan alleen in software. Bedenk een paar.
 
 ```
 
-Algoritmen (zie kader) kom je op veel meer plaatsen tegen dan alleen in software. Bedenk een paar
 
 ## Algoritme
 
@@ -1789,9 +1786,7 @@ Niet alle opdrachten kunnen we in de module plaatsen. Daarom worden er ook na ve
 
 ## 8 Verder met digitale technologie
 
-Sommige van onderstaande lesmodules nlt gaan in zijn geheel over een onderdeel van digitale technologie. Bij anderen wordt digitale technologie ingezet in een context. Ook kun je bij een groot deel van de nlt modules iets maken of onderzoeken waar digitale technologie bij gebruikt wordt. Vraag ```{exercise}
-
-``` er gerust naar bij je docent of TOA.
+Sommige van onderstaande lesmodules nlt gaan in zijn geheel over een onderdeel van digitale technologie. Bij anderen wordt digitale technologie ingezet in een context. Ook kun je bij een groot deel van de nlt modules iets maken of onderzoeken waar digitale technologie bij gebruikt wordt. Vraag er gerust naar bij je docent of TOA.
 
 ## Fijnstof
 
@@ -1852,11 +1847,12 @@ Er is voor de leerlingen ook veel informatie te vinden op de leerlingenwebsite:
 https://maken.wikiwijs.nl/171772/Schakelmodule_Digitale_Technologie__online_materiaal
 
 
-[^0]:    5.6 Vraag ```{exercise}
-
+[^0]:    5.6 Vraag 
+```{exercise}
+Zoek op over welke afstand een glasvezelkabel een signaal kan versturen zonder versterker. Zoek ook op welke techniek(en) men toepast om verschillende datastromen in één glasvezel te vervoeren.
 ```
 
-    Zoek op over welke afstand een glasvezelkabel een signaal kan versturen zonder versterker. Zoek ook op welke techniek(en) men toepast om verschillende datastromen in één glasvezel te vervoeren.
+
 
 [^1]:    6.4 Opdracht
 
