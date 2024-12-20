@@ -44,15 +44,17 @@ Deze schakelmodule is ontwikkeld door Pre-U, Universiteit Twente, in opdracht va
 ## Copyrights
 
 De auteursrechten van dit werk liggen bij Vereniging NLT.
+
 © 2023 Wijk bij Duurstede, Schakelmodule Digitale Technologie, redactieversie 1.0, januari 2023.
 
 Certificeringsnummer 6141-100-VE2-2F2
 
-Bij deze module is online materiaal beschikbaar via
-https://maken.wikiwijs.nl/171772/Schakelmodule_Digitale_Technologie__online_materiaal
+Bij deze module is [online materiaal]https://maken.wikiwijs.nl/171772/Schakelmodule_Digitale_Technologie__online_materiaal beschikbaar.
 De bijlagen, waarnaar verwezen wordt in deze module, zijn in deze gedrukte achterwege gelaten. Alle materialen zijn beschikbaar in de Moduledatabase van Vereniging NLT (https://module-database.betavak-nlt.nl/).
 
 ## Online materiaal en auteurs
+|||
+|---|---|
 |Auteurs| Digitaal Redacteur ; Rudy Jonker ; H. Dirks|
 |Team| Schakelmodule Digitale Technologie|
 |Laatst gewijzigd|24 februari 2023|
