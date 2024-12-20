@@ -44,5 +44,8 @@ site:
   #   logo: site_logo.pngsite: 
   options: 
      hide_outline: true
-     hide_toc: true
+    # hide_toc: true
+  actions:
+    - title: report issue
+      url: https://github.com/NLT-modules/Schakelmodule/issues
 
