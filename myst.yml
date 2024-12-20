@@ -21,6 +21,9 @@ project:
   toc:
     - file: intro.md
     - file: module.md
+    - file: module_p2.md
+    - file: ch5.md
+    - file: Eindopdracht.md
     - file: appendix/inleiding.md
     - file: appendix/ontwerpen.md
     - file: appendix/hardware.md
