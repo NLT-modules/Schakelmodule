@@ -20,7 +20,10 @@ project:
   
   toc:
     - file: intro.md
-    - file: module.md
+    - file: NLT.md
+    - file: ch1.md
+    - file: ch2.md
+    - file: ch3.md
     - file: module_p2.md
     - file: ch5.md
     - file: Eindopdracht.md
