@@ -22,7 +22,7 @@ In de afgelopen tijd ben je vast een keer bij de tandarts geweest. Heb je toen g
 
 Figuur 1.1 Digitale foto bij de tandarts
 
-https://www.google.com/url?sa=i\&url=https\%3A\%2F\%2Fdepositphotos.com\%2Fstock-photos\%2Fdentalxray.htmI\&psig=AOVVawOII8qXaRphhAsq_hQ|4E2r\&ust=1623509026466000\&source=images\&cd=vfe\&ved=0%C20CAOOjhxqFwoTCIC__tHoj_ECFQAAAAAdAAAAABBD
+[link](https://www.google.com/url?sa=i\&url=https\%3A\%2F\%2Fdepositphotos.com\%2Fstock-photos\%2Fdentalxray.htmI\&psig=AOVVawOII8qXaRphhAsq_hQ|4E2r\&ust=1623509026466000\&source=images\&cd=vfe\&ved=0 CAOOjhxqFwoTCIC__tHoj_ECFQAAAAAdAAAAABBD)
 
 Om een beugel te zetten, was het nodig dat er een gipsafdruk van je kaak gemaakt werd. De orthodontist moest met die afdruk bepalen waar blokjes en draadjes moesten komen. Ook heel tijdrovend. De huidige orthodontist gebruikt steeds vaker digitale 3D gebitsfoto's. Met de computer wordt berekend hoe de tanden moeten verschuiven en hoe de beugel moet worden. Dat wordt uiteraard alvast in een mooi plaatje gezet, zodat je kunt zien hoe het gaat worden. De computer berekent dan precies welke onderdelen voor de beugel nodig zijn, zodat die precies op maat zijn en klaarliggen als de beugel geplaatst gaat worden. Daar komt steeds minder handwerk of berekening aan te pas.
 
@@ -51,7 +51,7 @@ Welke manieren ken je om computers en computergegevens (data) te beschermen?
 ![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-08.jpg?height=535&width=960&top_left_y=361&top_left_x=234)
 
 Figuur 1.2 Drone voor het meten aan landbouwgewassen
-https:///Ggriculturepost.com/7-benefit-of-remote-sensing-gis-in-gariculture/
+https://Ggriculturepost.com/7-benefit-of-remote-sensing-gis-in-gariculture/
 
 Op een gemengd boerenbedrijf worden graan, maïs en bieten geteeld en is een stal met 100 koeien. In het voorjaar bewerkt de boer de akker en zaait de gewassen in. Er wordt waar nodig gewasbescherming gespoten en beregend en gekeken of het gewas zich goed ontwikkelt. Allemaal met het oog. De koeien worden met de melkmachine gemolken, tweemaal per dag. In de zomerperiode zijn de koeien in de wei en worden ze daar gemolken. De melk gaat in melkbussen op de kar mee naar de boerderij. Technologie, en nu ook digitale technologie, heeft dit veranderd en die ontwikkeling gaat nog wel een poosje door.
 
@@ -68,14 +68,13 @@ De koeien worden gemolken met de melkrobot, krijgen hun rantsoen voer doordat ze
 
 Figuur 1.4 Forensisch onderzoek aan digitale opslagmedia https://blog.veriato.com/the-evolution-of-digital-forensics
 
-De politie maakt op uitgebreide schaal gebruik van digitale technologie. Vingerafdrukken of DNA-sporen van een plaats-delict komen in digitale databases. Gegevens uit telefoons of computers van slachtoffers en verdachten leveren belangrijk bewijsmateriaal. Slimme camera's detecteren hardrijders, mensen in de stad of kentekens van gezochte auto's. Een nieuw
+De politie maakt op uitgebreide schaal gebruik van digitale technologie. Vingerafdrukken of DNA-sporen van een plaats-delict komen in digitale databases. Gegevens uit telefoons of computers van slachtoffers en verdachten leveren belangrijk bewijsmateriaal. Slimme camera's detecteren hardrijders, mensen in de stad of kentekens van gezochte auto's. Een nieuw onderzoekproject gaat van start om deep-fake videobeelden te kunnen opsporen (dit zijn bedrieglijkecht lijkende gemonteerde beelden, waarin het lijkt dat mensen allerlei dingen doen of zeggen, die ze in werkelijkheid nooit gedaan of gezegd hebben). Het maken van dit soort nepbeelden is steeds gemakkelijker en het resultaat is steeds moeilijker van echt te onderscheiden. Speciale opsporingssoftware moet helpen deze fake te ontmaskeren (NOS journaal, 24-5-2021).
 
-## Big data
-
+```{note} Big data
 Over de hele wereld staan digitale apparaten die informatie verzamelen. Camera's, detectielussen, thermometers, wifitrackers, enzovoorts. Die informatie blijft bewaard in databastanden op computers. Via het internet zijn die gekoppeld. Samen vormen ze de 'big data'. De politie kan er misdrijven mee oplossen, bedrijven vinden zo hun klanten.
 
 Het wordt minder plezierig als de data door criminelen gebruikt wordt om mensen op te lichten, of door de overheid om burgers te volgen of te dwarsbomen vanwege hun overtuiging. Niet voor niets zijn privacy en beveiliging extreem belangrijk.
-onderzoekproject gaat van start om deep-fake videobeelden te kunnen opsporen (dit zijn bedrieglijkecht lijkende gemonteerde beelden, waarin het lijkt dat mensen allerlei dingen doen of zeggen, die ze in werkelijkheid nooit gedaan of gezegd hebben). Het maken van dit soort nepbeelden is steeds gemakkelijker en het resultaat is steeds moeilijker van echt te onderscheiden. Speciale opsporingssoftware moet helpen deze fake te ontmaskeren (NOS journaal, 24-5-2021).
+```
 
 ## De huisarts
 
