@@ -10,12 +10,8 @@ options:
     CSS:
         - TUD.css
 ---
-<head>
-<link rel="stylesheet" href="TUD.css">
-
 
 # Digitale technologie is tegenwoordig overal
-</head>
 
 ## Leerdoelen
 
