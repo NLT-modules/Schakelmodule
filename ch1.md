@@ -6,6 +6,9 @@ exports:
 downloads:
     - file: exports/ch1.pdf
     - file: ch1.md
+options:
+    CSS:
+        - TUD.css
 ---
 
 # Digitale technologie is tegenwoordig overal
