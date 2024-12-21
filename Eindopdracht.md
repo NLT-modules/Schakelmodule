@@ -5,8 +5,9 @@ exports:
       output: exports/eindopdracht.pdf  
 downloads:
     - file: exports/eindopdracht.pdf
-    - file: eindopdracht.md
+    - file: Eindopdracht.md
 ---
+
 ## Eindopdracht: Digitaal device ontwerpen
 
 ## Leerdoelen
