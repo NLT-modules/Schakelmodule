@@ -38,8 +38,8 @@ jobs:
         #tricky part
       - name: Copy Custom CSS
         run: |
-          mkdir -p ./_build/html/static/css
-          cp ./TUD.css ./_build/html/static/css/
+          mkdir -p ./_build/site/static/css
+          cp ./TUD.css ./_build/site/static/css/
         #end tricky part
       - name: Build HTML Assets
         run: myst build --html
