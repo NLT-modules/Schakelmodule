@@ -37,9 +37,9 @@ jobs:
         run: npm install -g mystmd
         #tricky part
       - name: Copy Custom CSS
-        run: |
-          mkdir -p ./_build/site/static/css
-          cp ./TUD.css ./_build/site/static/css/
+        run: mkdir -p ./_build/site/static/css
+      - name: Copy Custom CSS
+        run:  cp ./TUD.css ./_build/site/static/css/
         #end tricky part
       - name: Build HTML Assets
         run: myst build --html
