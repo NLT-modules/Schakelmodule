@@ -49,6 +49,8 @@ site:
     #   favicon: favicon.ico
     logo: ./logo.jpg
     hide_authors: true
+    CSS:
+      - _static/TUD.css
   actions:
     - title: report issue
       url: https://github.com/NLT-modules/Schakelmodule/issues
