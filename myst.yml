@@ -9,8 +9,6 @@ project:
   license: CC-BY-SA-4.0
   thebe: true
   github: https://github.com/NLT-modules/Schakelmodule
-  thumbnail: logo.jpg 
-
 
   exports:
     - format: pdf
@@ -47,6 +45,7 @@ site:
   options: 
      hide_outline: true
     # hide_toc: true
+     logo: ./logo.jpg
   actions:
     - title: report issue
       url: https://github.com/NLT-modules/Schakelmodule/issues
