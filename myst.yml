@@ -7,9 +7,11 @@ project:
   # keywords: []
   # authors: []
   license: CC-BY-SA-4.0
-  jupyter: true
+  thebe: true
   github: https://github.com/NLT-modules/Schakelmodule
-    
+  thumbnail: logo.jpg 
+
+
   exports:
     - format: pdf
       template: plain_latex_book
