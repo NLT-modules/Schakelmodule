@@ -27,9 +27,10 @@ project:
     - file: module_p2.md
     - file: ch5.md
     - file: Eindopdracht.md 
-    - file: appendix/inleiding.md
+    - file: Appendix.md
       title: Appendix
       children:
+      - file: appendix/inleiding.md
       - file: appendix/ontwerpen.md
       - file: appendix/hardware.md
       - file: appendix/hardware_input.md
