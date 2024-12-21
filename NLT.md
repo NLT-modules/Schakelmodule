@@ -5,6 +5,7 @@ exports:
       output: exports/NLT.pdf  
 downloads:
     - file: exports/NLT.pdf
+    - file: NLT.md
 ---
 # Over NLT
 

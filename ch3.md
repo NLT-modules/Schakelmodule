@@ -5,6 +5,7 @@ exports:
       output: exports/ch3.pdf  
 downloads:
     - file: exports/ch3.pdf
+    - file: ch3.md
 ---
 # Keuzeopdrachten
 

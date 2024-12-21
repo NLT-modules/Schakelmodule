@@ -5,6 +5,7 @@ exports:
       output: exports/ch5.pdf  
 downloads:
     - file: exports/ch5.pdf
+    - file: ch5.md
 ---
 ## Data opslag en transport
 

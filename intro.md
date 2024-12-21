@@ -5,6 +5,7 @@ exports:
       output: exports/intro.pdf  
 downloads:
     - file: exports/intro.pdf
+    - file: intro.md
 ---
 # Schakelmodule Digitale Technologie 
 

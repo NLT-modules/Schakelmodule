@@ -5,6 +5,7 @@ exports:
       output: exports/ch2.pdf  
 downloads:
     - file: exports/ch2.pdf
+    - file: ch2.md
 ---
 # Introductie op de module Digitale Technologie
 

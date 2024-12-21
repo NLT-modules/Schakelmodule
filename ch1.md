@@ -5,6 +5,7 @@ exports:
       output: exports/ch1.pdf  
 downloads:
     - file: exports/ch1.pdf
+    - file: ch1.md
 ---
 
 # Digitale technologie is tegenwoordig overal
