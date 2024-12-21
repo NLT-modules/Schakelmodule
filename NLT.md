@@ -1,3 +1,11 @@
+---
+exports: 
+    - format: pdf
+      template: curvenote
+      output: exports/NLT.pdf  
+downloads:
+    - file: exports/NLT.pdf
+---
 # Over NLT
 
 ## Woord vooraf

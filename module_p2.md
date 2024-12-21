@@ -1,3 +1,11 @@
+---
+exports: 
+    - format: pdf
+      template: curvenote
+      output: exports/p2.pdf  
+downloads:
+    - file: exports/p2.pdf
+---
 # Verwerken en beslissen
 ![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-38.jpg?height=1158&width=1529&top_left_y=312&top_left_x=232)
 

@@ -1,4 +1,11 @@
-
+---
+exports: 
+    - format: pdf
+      template: curvenote
+      output: exports/ch3.pdf  
+downloads:
+    - file: exports/ch3.pdf
+---
 # Keuzeopdrachten
 
 Op de leerlingenwebsite bij deze module zijn praktische uitleg en maakopdrachten te vinden.

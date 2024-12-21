@@ -1,3 +1,11 @@
+---
+exports: 
+    - format: pdf
+      template: curvenote
+      output: exports/ch2.pdf  
+downloads:
+    - file: exports/ch2.pdf
+---
 # Introductie op de module Digitale Technologie
 
 ![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-14.jpg?height=1129&width=1500&top_left_y=355&top_left_x=215)

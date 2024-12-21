@@ -1,4 +1,12 @@
-## 7 Eindopdracht: Digitaal device ontwerpen
+---
+exports: 
+    - format: pdf
+      template: curvenote
+      output: exports/eindopdracht.pdf  
+downloads:
+    - file: exports/eindopdracht.pdf
+---
+## Eindopdracht: Digitaal device ontwerpen
 
 ## Leerdoelen
 
