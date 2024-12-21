@@ -26,16 +26,18 @@ project:
     - file: ch3.md
     - file: module_p2.md
     - file: ch5.md
-    - file: Eindopdracht.md
+    - file: Eindopdracht.md 
     - file: appendix/inleiding.md
-    - file: appendix/ontwerpen.md
-    - file: appendix/hardware.md
-    - file: appendix/hardware_input.md
-    - file: appendix/hardware_output.md
-    - file: appendix/hardware_opslag.md
-    - file: appendix/voeding.md
-    - file: appendix/python.ipynb
-    - file: appendix/colofon.md
+      title: Appendix
+      children:
+      - file: appendix/ontwerpen.md
+      - file: appendix/hardware.md
+      - file: appendix/hardware_input.md
+      - file: appendix/hardware_output.md
+      - file: appendix/hardware_opslag.md
+      - file: appendix/voeding.md
+      - file: appendix/python.ipynb
+      - file: appendix/colofon.md
     
 site:
   template: book-theme
