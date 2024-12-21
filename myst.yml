@@ -4,15 +4,15 @@ project:
   id: 7a684202-bf02-4750-bf08-a1e713b46e22
   title: Schakelmodule Digitale Technologie - online materiaal
   # description:
-  # keywords: []
-  # authors: []
+  keywords: [NLT, schakelmodule, digitale technologie]
+  authors: [Klaas Beute, Rudy Jonker, Bart Kappé, Aernout van Rossum, Jan Jaap Wietsma]
   license: CC-BY-SA-4.0
   thebe: true
   github: https://github.com/NLT-modules/Schakelmodule
 
   exports:
     - format: pdf
-      template: plain_latex_book
+      template: plain_latex_book # myst templates list --tex
       output: exports/book.pdf  
 
   downloads:
@@ -39,13 +39,11 @@ project:
     
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.pngsite: 
   options: 
-     hide_outline: true
+    # hide_outline: true
     # hide_toc: true
-     logo: ./logo.jpg
+    #   favicon: favicon.ico
+    logo: ./logo.jpg
   actions:
     - title: report issue
       url: https://github.com/NLT-modules/Schakelmodule/issues

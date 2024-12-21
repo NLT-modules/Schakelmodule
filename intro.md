@@ -1,3 +1,11 @@
+---
+exports: 
+    - format: pdf
+      template: curvenote
+      output: exports/intro.pdf  
+downloads:
+    - file: exports/intro.pdf
+---
 # Schakelmodule Digitale Technologie 
 
 ![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-01.jpg?height=1764&width=1680&top_left_y=611&top_left_x=182)

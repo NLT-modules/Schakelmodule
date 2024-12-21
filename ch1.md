@@ -1,3 +1,12 @@
+---
+exports: 
+    - format: pdf
+      template: curvenote
+      output: exports/ch1.pdf  
+downloads:
+    - file: exports/ch1.pdf
+---
+
 # Digitale technologie is tegenwoordig overal
 
 ## Leerdoelen
