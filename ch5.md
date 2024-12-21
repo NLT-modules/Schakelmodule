@@ -7,6 +7,7 @@ downloads:
     - file: exports/ch5.pdf
     - file: ch5.md
 ---
+
 ## Data opslag en transport
 
 ![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-51.jpg?height=1195&width=1580&top_left_y=339&top_left_x=227)

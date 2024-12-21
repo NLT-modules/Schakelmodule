@@ -8,7 +8,7 @@ downloads:
     - file: ch1.md
 options:
     CSS:
-        - TUD.css
+        - - static/css/TUD.css
 ---
 
 # Digitale technologie is tegenwoordig overal

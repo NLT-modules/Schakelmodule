@@ -40,6 +40,7 @@ jobs:
         run: |
           mkdir -p ./_build/html/static/css
           cp ./TUD.css ./_build/html/static/css/
+        #end tricky part
       - name: Build HTML Assets
         run: myst build --html
       - name: Upload artifact
