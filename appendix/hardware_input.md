@@ -82,8 +82,20 @@ void loop() {
 Een magneetcontact (ook wel magneetschakelaar of reedswitch genoemd) is een schakelaar die gevoelig is voor magnetisch veld. De schakelaar kent twee posities; hij is Open of Dicht, oftewel Hoogohmig of Laagohmig (zoals je misschien weet is Ohm de eenheid voor weerstand bij elektriciteit). Dat betekent dat er een open dan wel gesloten circuit is. De werking is niet anders dan de momentdrukknop. het contact is gesloten zolang het magneetveld aanwezig is.
 
 Het magnetisch veld breng je aan in de vorm van een magneet. In onderstaande afbeelding zie je de werking van het magneetveld. Het contact zal zich sluiten door de aantrekkingskracht.
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-15.jpg?height=509&width=918&top_left_y=1910&top_left_x=569)
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-16.jpg?height=93&width=538&top_left_y=202&top_left_x=762)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-15.jpg?height=509&width=918&top_left_y=1910&top_left_x=569)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-16.jpg?height=93&width=538&top_left_y=202&top_left_x=762)
 
 Magneetcontact.
 
@@ -98,7 +110,13 @@ Rood gemerkte draad = +5Volt.
 Zwart gemerkte draad = GND.
 Draad zonder markering (of andere kleur) = Signaal.
 In de datasheet vind je de verhouding van het signaal t.o.v. de temperatuur. Bekijk ook de link naar een voorbeeldschakeling, waar je ook de code kunt zien. Er is een TMP36 sensor aangesloten en 3 LED's. Als je op simulatie starten klikt, kun je door op de sensor te klikken de temperatuur verhogen en zien dat de LED's bij hogere temperatuur één voor één aan gaan.
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-16.jpg?height=275&width=404&top_left_y=1524&top_left_x=179)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-16.jpg?height=275&width=404&top_left_y=1524&top_left_x=179)
 
 Tinkercad TMP36
 https://www.tinkercad.com/things/94VFdq4ienj-copy-of-tmp36-temperatur e-sensor-with-arduino/editel?tenant=circuits
@@ -182,8 +200,20 @@ Opstelling
 De potentiometer is een weerstand waarvan je de waarde kunt variëren. Wanneer je aan de as draait verandert de positie van een loper op de weerstandsbaan (vaak carbon). Met de draaiknop kun je de spanning aan de loper regelen. De werking hiervan en het aansluiten ervan wordt in de onderstaande video uitgelegd.
 
 Aan de potmeter die wij gebruiken is een extra weerstandje toegevoegd om te voorkomen dat de potmeter verbrand bij verkeerd aansluiten (er zou dan kortsluiting kunnen ontstaan).
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-20.jpg?height=276&width=287&top_left_y=179&top_left_x=173)
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-20.jpg?height=347&width=841&top_left_y=569&top_left_x=613)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-20.jpg?height=276&width=287&top_left_y=179&top_left_x=173)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-20.jpg?height=347&width=841&top_left_y=569&top_left_x=613)
 
 ## Aansluitingen
 
@@ -222,7 +252,13 @@ Hieronder zie je een aansluitschema voor de microfoon. Een microfoon is eigenlij
 
 Als je echt de microfoon als input wilt gebruiken zul je nog een flinke bewerking met de gegevens moeten uitvoeren. Dat kan vrij complex zijn, en je moet wat weten over geluid. We zullen hier t.z.t. meer informatie over opnemen.
 
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-21.jpg?height=966&width=1668&top_left_y=1619&top_left_x=197)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-21.jpg?height=966&width=1668&top_left_y=1619&top_left_x=197)
 
 Een aan/uitschema voor de microfoon die wij gebruiken
 
@@ -235,19 +271,43 @@ Wil je nauwkeurig een tijdseenheid kunnen toepassen en wil je daarin flexibeler 
 Met zo'n klok beschik te over de werkelijke tijd en vaak ook de datum en zelfs een meerjarenkalender. Je leest hem uit op het moment dat je de gegevens nodig hebt zodat je je in de programmacode met belangrijker zaken kunt bezighouden. Met een ingebouwde batterij (knoopcel o.i.d.) zorg je ervoor dat de klok blijft werken als de Arduino is uitgeschakeld.
 
 Wij werken met de DS1307 chip en communiceren met de module via het i2c protocol.
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-22.jpg?height=389&width=384&top_left_y=1002&top_left_x=839)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-22.jpg?height=389&width=384&top_left_y=1002&top_left_x=839)
 
 ## Ultrasone sensor
 
 Met de ultrasone sensor kun je de afstand tot een object meten. Het is een apparaat dat erg eenvoudig in gebruik is. Op de onderstaande site kun je voor het type HC-SR04 lezen hoe je hem moet aansluiten en gebruiken. Dit is het type dat wij op school hebben. Er zijn ook andere typen. Je ziet ook een filmpje hieronder met de ultrasone sensor in gebruik en een foto van hoe het er in de praktijk uit ziet.
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-22.jpg?height=272&width=399&top_left_y=1960&top_left_x=181)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-22.jpg?height=272&width=399&top_left_y=1960&top_left_x=181)
 
 Ultrasone sensor
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-22.jpg?height=269&width=390&top_left_y=2327&top_left_x=184)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-22.jpg?height=269&width=390&top_left_y=2327&top_left_x=184)
 
 Tutorial voor de ultrasone sensor https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr0 4-with-arduino-tutorial-327ff6
 wikiwijs
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-23.jpg?height=1029&width=1372&top_left_y=179&top_left_x=342)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-23.jpg?height=1029&width=1372&top_left_y=179&top_left_x=342)
 
 Een voorbeeld van hoe een aangesloten ultrasone sensor eruit ziet
 
@@ -268,4 +328,10 @@ De vochtsensor is een sensor die gebaseerd is op de geleiding van stroom door (n
 Een lichtsluis is een hulpmiddel om aanwezigheid van objecten te kunnen detecteren. Een voorbeeld van een hele grote lichtsluis vind je bij een liftdeur. In de deuropening zit aan de ene zijde een lichtbron (al dan niet met sensor) en aan de andere zijde een reflector of een lichtsensor. Zodra een persoon zich tussen lichtbron en sensor bevindt zal de deur niet sluiten. Het licht is meestal onzichtbaar (infrarood).
 
 In het aansluitvoorbeeld zie je hoe je een lichtsluis kunt toepassen i.c.m. een Arduino.
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-24.jpg?height=443&width=1466&top_left_y=207&top_left_x=261)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-24.jpg?height=443&width=1466&top_left_y=207&top_left_x=261)

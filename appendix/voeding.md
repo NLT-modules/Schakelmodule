@@ -67,7 +67,13 @@ Tussen de accolades van if staat het commando digitalWrite(LAMP, HIGH); Dat bete
 
 In regel 15 staat het woordje else. Dat zorgt ervoor dat er ook iets gebeurt als de waarde tussen de haakjes bij if niet waar is. In dit geval stuurt hij dan een 0 naar de lamp en gaat de lamp uit.
 
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-43.jpg?height=901&width=1713&top_left_y=1337&top_left_x=174)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-43.jpg?height=901&width=1713&top_left_y=1337&top_left_x=174)
 
 Deze schakeling hoort bij de bovenstaande code
 

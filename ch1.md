@@ -27,12 +27,13 @@ Digitale technologie is zó gewoon en onmisbaar geworden voor ons dagelijks leve
 
 In de afgelopen tijd ben je vast een keer bij de tandarts geweest. Heb je toen gemerkt hoe de tandarts digitale technologie gebruikt? Waarschijnlijk niet zo bewust. De afspraak is in een digitale agenda vastgelegd. Mogelijk heb je een sms of mailtje ontvangen dat je de afspraak niet moet vergeten. De tandartsstoel wordt met knopjes keurig ingesteld en de tandarts heeft jouw gegevens bij de hand. Uiteraard op een scherm waarin precies te zien is wat er met jouw gebit gebeurd is in de afgelopen jaren, inclusief de röntgenfoto's. Nieuwe foto nodig? Jij klemt een plaatje met een draad tussen je tanden en krijgt een apparaat naast je wang. De tandarts stapt even weg, en bekijkt enkele seconden later de foto op het scherm en kan direct bepalen of er nog iets aan je gebit gebeuren moet. Opzienbarend? Misschien niet, maar wel een groot verschil met dertig jaar geleden. Een afspraak had je op een kaartje, dat je thuis moest bewaren. Met wat geluk werd je (op het vaste thuisnummer) gebeld als herinnering om te komen, maar dat was voor de uitzonderingen. De tandarts had een papieren kaart met daarop een schema van jouw gebit. Tijdens het onderzoek kreeg (net als nu) de assistent(e) gecodeerd informatie waar eventueel een gaatje zat. Dat werd op de kaart aangetekend, en bijgewerkt als het gerepareerd werd. Een foto werd gemaakt met een ingepakt lichtgevoelig negatief. Als je de volgende keer terugkwam was deze foto ontwikkeld en vastgeniet aan je kaart. In elk geval: het kostte allemaal een stuk meer tijd.
 
+```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-06.jpg?height=527&width=781&top_left_y=1484&top_left_x=1023
+:width: 70%
+:name: fig_tandarts
 
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-06.jpg?height=527&width=781&top_left_y=1484&top_left_x=1023)
-
-Figuur 1.1 Digitale foto bij de tandarts
-
-[link](https://www.google.com/url?sa=i\&url=https\%3A\%2F\%2Fdepositphotos.com\%2Fstock-photos\%2Fdentalxray.htmI\&psig=AOVVawOII8qXaRphhAsq_hQ|4E2r\&ust=1623509026466000\&source=images\&cd=vfe\&ved=0 CAOOjhxqFwoTCIC__tHoj_ECFQAAAAAdAAAAABBD)
+Digitale foto bij de tandarts
+[link](https://www.google.com/url?sa=i\&url=https\%3A\%2F\%2Fdepositphotos.com\%2Fstock-photos\%2Fdentalxray.htmI\&psig=AOVVawOII8qXaRphhAsq_hQ|4E2r\&ust=1623509026466000\&source=images\&cd=vfe\&ved=0CAOOjhxqFwoTCIC__tHoj_ECFQAAAAAdAAAAABBD)
+```
 
 Om een beugel te zetten, was het nodig dat er een gipsafdruk van je kaak gemaakt werd. De orthodontist moest met die afdruk bepalen waar blokjes en draadjes moesten komen. Ook heel tijdrovend. De huidige orthodontist gebruikt steeds vaker digitale 3D gebitsfoto's. Met de computer wordt berekend hoe de tanden moeten verschuiven en hoe de beugel moet worden. Dat wordt uiteraard alvast in een mooi plaatje gezet, zodat je kunt zien hoe het gaat worden. De computer berekent dan precies welke onderdelen voor de beugel nodig zijn, zodat die precies op maat zijn en klaarliggen als de beugel geplaatst gaat worden. Daar komt steeds minder handwerk of berekening aan te pas.
 
@@ -58,25 +59,35 @@ Welke manieren ken je om computers en computergegevens (data) te beschermen?
 
 ## Landbouw
 
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-08.jpg?height=535&width=960&top_left_y=361&top_left_x=234)
 
-Figuur 1.2 Drone voor het meten aan landbouwgewassen
-https://Ggriculturepost.com/7-benefit-of-remote-sensing-gis-in-gariculture/
+```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-08.jpg?height=535&width=960&top_left_y=361&top_left_x=234
+:width: 70%
+:name: fig_
 
+Drone voor het meten aan landbouwgewassen
+[link](https://Ggriculturepost.com/7-benefit-of-remote-sensing-gis-in-gariculture/)
+```
 Op een gemengd boerenbedrijf worden graan, maïs en bieten geteeld en is een stal met 100 koeien. In het voorjaar bewerkt de boer de akker en zaait de gewassen in. Er wordt waar nodig gewasbescherming gespoten en beregend en gekeken of het gewas zich goed ontwikkelt. Allemaal met het oog. De koeien worden met de melkmachine gemolken, tweemaal per dag. In de zomerperiode zijn de koeien in de wei en worden ze daar gemolken. De melk gaat in melkbussen op de kar mee naar de boerderij. Technologie, en nu ook digitale technologie, heeft dit veranderd en die ontwikkeling gaat nog wel een poosje door.
 
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-08.jpg?height=801&width=1026&top_left_y=1367&top_left_x=229)
+```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-08.jpg?height=801&width=1026&top_left_y=1367&top_left_x=229
+:width: 70%
+:name: fig_melkrobot
 
-Figuur 1.3 Een melkrobot
-https://www.boerenbusiness.n//agribusiness/artikel/10878173//lely-astronaut-a5-goedkoper-en-eenvoudiger
+Een melkrobot
+[link](https://www.boerenbusiness.n//agribusiness/artikel/10878173//lely-astronaut-a5-goedkoper-en-eenvoudiger)
+
+```
 
 De koeien worden gemolken met de melkrobot, krijgen hun rantsoen voer doordat ze herkend worden aan een zender om hun nek. De boer bepaalt welk deel van de akker bemest moet worden door satellietgegevens en dronefoto's te gebruiken. Als er geoogst wordt, houdt de oogstmachine precies bij hoeveel elk stukje van de akker opgebracht heeft. Hiermee kan bepaald worden wat er aan de grond moet gebeuren voor het volgende seizoen. De komende jaren zal de landbouw nog meer veranderen, mede door klimaatverandering en eisen rond duurzaamheid en milieu.
 
 ## Opsporing
 
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-09.jpg?height=592&width=892&top_left_y=315&top_left_x=228)
+```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-09.jpg?height=592&width=892&top_left_y=315&top_left_x=228
+:width: 70%
+:name: fig_forensisch
 
-Figuur 1.4 Forensisch onderzoek aan digitale opslagmedia https://blog.veriato.com/the-evolution-of-digital-forensics
+Forensisch onderzoek aan digitale opslagmedia [link](https://blog.veriato.com/the-evolution-of-digital-forensics)
+```
 
 De politie maakt op uitgebreide schaal gebruik van digitale technologie. Vingerafdrukken of DNA-sporen van een plaats-delict komen in digitale databases. Gegevens uit telefoons of computers van slachtoffers en verdachten leveren belangrijk bewijsmateriaal. Slimme camera's detecteren hardrijders, mensen in de stad of kentekens van gezochte auto's. Een nieuw onderzoekproject gaat van start om deep-fake videobeelden te kunnen opsporen (dit zijn bedrieglijkecht lijkende gemonteerde beelden, waarin het lijkt dat mensen allerlei dingen doen of zeggen, die ze in werkelijkheid nooit gedaan of gezegd hebben). Het maken van dit soort nepbeelden is steeds gemakkelijker en het resultaat is steeds moeilijker van echt te onderscheiden. Speciale opsporingssoftware moet helpen deze fake te ontmaskeren (NOS journaal, 24-5-2021).
 
@@ -89,14 +100,18 @@ Het wordt minder plezierig als de data door criminelen gebruikt wordt om mensen 
 ## De huisarts
 
 Tijdens de Covid-19 pandemie werd de temperatuur van mensen op afstand gemeten om te ontdekken of ze Corona hebben. Als je de huisarts belt, is één van de vragen die je aan de telefoon krijgt: heb je koorts? Om dat zelf te meten, is de kans groot dat je gebruikt maakt van een digitale koortsthermometer. Verderop in de module gaan we die beter bekijken.
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-09.jpg?height=141&width=589&top_left_y=1780&top_left_x=1233)
 
-Figuur 1.5 Digitale koortsthermometer Svdmolen - Self-published work by Sudmolen, CC BY 2.5, httpscommons.wikimedia.orgwindex.phpcurid=1528736.rtf
+```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-09.jpg?height=141&width=589&top_left_y=1780&top_left_x=1233
+:width: 70%
+:name: fig_thermo
+
+Digitale koortsthermometer Svdmolen - Self-published work by Sudmolen, CC BY 2.5
+[link](https://commons.wikimedia.orgwindex.phpcurid=1528736.rtf)
+```
 
 ```{exercise} 
 Kies één van de genoemde contexten. Bedenk welke rol digitale technologie nog meer kan hebben in die situatie. Noteer tenminste drie toepassingen.
 ```
-
 
 ```{exercise} Zelfstandig werkend apparaat - systeem - communicatie - dataopslag
 
@@ -113,16 +128,16 @@ Kies één van de genoemde contexten. Bedenk welke rol digitale technologie nog 
 
 **Kies twee items uit bovenstaand lijstje. Maak voor beide de volgende opdracht:**
 
-a. Wat doet of kan het apparaat? Wat doe je er allemaal mee?
-b. Communiceert het ding met de omgeving?
-c. Heeft het apparaat sensoren (ontvangers)?
-d. Hoe weet je wat het apparaat doet? Bijvoorbeeld: zijn er lampjes, schermpje(s), bliepjes via een luidsprekertje?
-e. Hoe komt het apparaat aan energie?
-f. Heeft het apparaat andere apparaten nodig om te kunnen werken?
-g. Welke informatie wisselt het apparaat uit en waarmee?
-h. Is er in het apparaat privacy-gevoelige informatie aanwezig? Is die beveiligd en hoe?
-i. Hoe kom je er achter waar de informatie uit het apparaat blijft?
-j. Slaat het apparaat data op, en zo ja, wat voor soort data?
+1. Wat doet of kan het apparaat? Wat doe je er allemaal mee?
+2. Communiceert het ding met de omgeving?
+3. Heeft het apparaat sensoren (ontvangers)?
+4. Hoe weet je wat het apparaat doet? Bijvoorbeeld: zijn er lampjes, schermpje(s), bliepjes via een luidsprekertje?
+5. Hoe komt het apparaat aan energie?
+6. Heeft het apparaat andere apparaten nodig om te kunnen werken?
+7. Welke informatie wisselt het apparaat uit en waarmee?
+8. Is er in het apparaat privacy-gevoelige informatie aanwezig? Is die beveiligd en hoe?
+9. Hoe kom je er achter waar de informatie uit het apparaat blijft?
+10. Slaat het apparaat data op, en zo ja, wat voor soort data?
 
 ```
 
@@ -161,7 +176,7 @@ Om een idee te krijgen wat je over het thema digitale technologie weet en nog zo
 | Micro:bit |  |  |  |
 ```
 
-### 1.1 Scrum
+## Scrum
 
 Net als overal in de wereld van ICT is samenwerken belangrijk én ingewikkeld. Het ontwikkelen van digitale technologie Vraagt inzet van mensen die allemaal aan een ander stukje van het project werken. Weten wat anderen doen, en vertellen wat jij doet is daarom nodig. Ook als je vast loopt, is het goed om hulp te krijgen. Daarnaast moet voortdurend in beeld blijven wat de gebruiker (klant) wil hebben.
 
@@ -174,9 +189,13 @@ Een digitaal technologieproject begint meestal met een probleem, waar digitale t
 Een goed beeld van het probleem krijgen én nadenken over mogelijke oplossingen, is de eerste fase in elk project. Je lost het probleem van een gebruiker op, want daarvoor komt hij naar jullie toe. Voor je aan het werk gaat moet je precies weten wat de bedoeling is. Als eerste beschrijf je precies wat een gebruiker wil hebben. Er is iemand die daar verantwoordelijk voor is: de product owner. Hij heeft contact met de klant. Het eindproduct is er niet in één keer. In korte periodes (sprints) worden tussenproducten gemaakt. De klant kan daar iedere keer op reageren (of de product owner reageert namens de klant).
 
 De eerste stap naar een eindproduct is om duidelijk te krijgen wat er nodig is om het product te maken. Dat wordt de product backlog. Daarvan omschrijft het team taken en bekijkt het team hoeveel werk elke taak is. Grote taken krijgen veel punten, kleine taken weinig. De taken komen in het vak 'backlog'op het scrumbord. 
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-12.jpg?height=475&width=983&top_left_y=1667&top_left_x=822)
 
-Figuur 1.6 De Scrum-methode voor van een project 
+```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-12.jpg?height=475&width=983&top_left_y=1667&top_left_x=822
+:width: 70%
+:name: fig_scrum
+
+De Scrum-methode voor van een project 
+``` 
 
 Je hoeft niet persé met een papieren scrumbord te werken. Er zijn talloze online varianten van het scrumbord om taken van een team te managen.
 
@@ -190,9 +209,9 @@ Regelmatig kijken of iets dat je gemaakt hebt af is en werkt, wordt bij de ontwi
 
 In de module kun je scrum ook heel goed gebruiken, bijvoorbeeld om de eindopdracht samen aan te pakken. Precies beschrijven wat er gemaakt moet worden (design), wat daarvoor nodig is en hoe je dat als team aanpakt: dat is waar scrum voor bedoeld is. Je hebt verschillende kwaliteiten in je team nodig, zoals samenwerken, anderen helpen, schrijven, concentreren, overleggen, precies zijn, plannen, stevig doorwerken en dergelijke. De een weet hoe je code schrijft, een ander wat je wilt meten, een handleiding schrijven of praktische verpakking ontwerpen, en een derde kan bruikbare manier bedenken hoe gegevens aan een gebruiker getoond kunnen worden. Elke taak Vraagt weer andere kwaliteiten in je team. Naast algemene kwaliteiten is er ook ervaring met het onderwerp van de module. Daarvoor zijn ruwweg drie mogelijkheden:
 
-1. Algemeen gebruiker: Je bent iemand die digitale technologie gebruikt (bijvoorbeeld je telefoon, websites of programmatuur), maar ze zelf niet installeert of programmeert.
-2. Beheerder en ontwerper: Je zet computers in elkaar, beheert een website of een server of denkt na over de manier waarop software zou moeten werken.
-3. Codeerder en bouwer: Je bent bezig met het maken en aanpassen van programma's, bouwen en testen van apparaten, solderen, drivers zoeken en installeren.
+1. **Algemeen gebruiker:** Je bent iemand die digitale technologie gebruikt (bijvoorbeeld je telefoon, websites of programmatuur), maar ze zelf niet installeert of programmeert.
+2. **Beheerder en ontwerper:** Je zet computers in elkaar, beheert een website of een server of denkt na over de manier waarop software zou moeten werken.
+3. **Codeerder en bouwer:** Je bent bezig met het maken en aanpassen van programma's, bouwen en testen van apparaten, solderen, drivers zoeken en installeren.
 
 Bij de indeling van een team is het nodig om zowel op persoonlijke kwaliteiten als het inhoudelijke profiel (Algemeen gebruiker, Beheerder of Codeerder) te letten. Bij het bestuderen van de hoofdstukken komt dat onderscheid ook van pas. Je zou alles van het hoofdstuk moeten kennen en kunnen, maar het startpunt kan verschillen. Deel A is een goede start voor Algemeen gebruikers; B voor de Beheerders en C voor Codeerders. Uiteindelijk kun je elkaar uitleg geven en helpen bij de theorie en praktische vaardigheden.
 

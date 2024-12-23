@@ -22,7 +22,13 @@ De instructie heeft een vaste structuur:
 5. Wat hebben we geleerd over de componenten, code en principes (verwijzen naar uitleg in de bijlagen).
 6. Waar kan (de kennis uit) dit project voor worden gebruikt in de praktijk?
 7. Waarnemen en sensoren
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-29.jpg?height=1200&width=1597&top_left_y=314&top_left_x=224)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-29.jpg?height=1200&width=1597&top_left_y=314&top_left_x=224)
 
 ## Leerdoelen
 
@@ -45,7 +51,13 @@ De instructie heeft een vaste structuur:
 Een digitaal apparaat moet de omgeving kunnen waarnemen. Dat is nodig wanneer een mens het apparaat wil gebruiken. Bij een computer zijn daar het toetsenbord, de camera en muis voor bedoeld. Een druktoets is een sensor, die aanraking waarneemt en die deze informatie doorgeeft aan de processor. Toch kan bij een apparaat zowel invoer- als uitvoerinterface met de mens ontbreken. In dat geval vormt het apparaat een stukje van het geheel, dat met andere apparaten samenwerkt. Je kunt een draadloos toetsenbord en een draadloze muis zien als aparte, maar niet los van elkaar werkende, digitale apparaten. Immers: de muis is bedoeld om bewegingen en keuzes van de gebruiker aan de computer door te geven. In een computermuis zitten meerdere sensoren. Samen zorgen ze dat veranderingen in de fysieke omgeving (vingerbeweging, schuifbeweging) worden omgezet in een digitaal signaal dat via een draadje of via radiogolven aan een ontvanger (ook een sensor) in de computer wordt doorgegeven.
 
 
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-30.jpg?height=295&width=312&top_left_y=595&top_left_x=1506)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-30.jpg?height=295&width=312&top_left_y=595&top_left_x=1506)
 
 Figuur 3.1 Interface: Invoer in het systeem
 
@@ -54,7 +66,13 @@ Elke sensor in de elektronica of digitale technologie zorgt uiteindelijk dat een
 ## Temperatuursensor
 
 Temperatuur heeft invloed op bijvoorbeeld de dichtheid van stoffen. Het vloeibare metaal kwik zet uit als het warm wordt, net als alcohol. Doe de vloeistof in een buisje, zet er streepjes naast en je kunt de krimp en uitzetting gebruiken als maat voor de temperatuur: de thermometer. Elektrische stroom, die door metaal of ander geleidend materiaal gaat, ondervindt weerstand die varieert met de temperatuur. Dat principe wordt gebruikt om een temperatuursensor voor een elektronische thermometer te maken. De weerstand is te bepalen door een kleine spanning (bijvoorbeeld 1 V ) op de sensor te zetten. Als de temperatuur verandert, zal het spanningsverschil over de weerstand ook veranderen. Voor elektronische metingen wordt tegenwoordig vaak een NTC schakeling als sensor gebruikt.
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-30.jpg?height=215&width=227&top_left_y=2068&top_left_x=229)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-30.jpg?height=215&width=227&top_left_y=2068&top_left_x=229)
 
 Figuur 3.2
 Interface: uitvoer van het systeem
@@ -66,7 +84,13 @@ De eerste stap voor elektronisch meten is: een analoge fysische grootheid (tempe
 Een tweede stap is nodig om van een discreet signaal een digitaal signaal te maken. Een spanning in de sensor (bijvoorbeeld 0,25 V) wordt door een schakeling, de analoog-digitaal omzetter (ADconverter), vertaald naar een reeks bits (bijvoorbeeld 11011110). Deze schakeling kan bij de sensor ingebouwd zijn, waardoor een sensor direct op een digitale ingang aangesloten kan worden. Veel sensoren geven alleen een variabele spanning (V) af. Dan moet een AD-convertor op de processor dit omzetten in een reeks bits (zie figuur 2.6). De chip van de Arduino heeft hier een analoge ingang voor en doet zelf de AD-conversie. Het is dus belangrijk om te weten wat voor soort signaal de sensor verstuurt om de juiste aansluiting te maken.
 
 Hoeveel data?
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-31.jpg?height=553&width=673&top_left_y=820&top_left_x=246)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-31.jpg?height=553&width=673&top_left_y=820&top_left_x=246)
 
 Figuur 3.4 Sampling: aantal metingen/s moet passen bij de verandering van het signaal
 
@@ -94,7 +118,13 @@ ijklijn, waarin de relatie tussen de gemeten grootheid en de waarde van het sign
 
 Bedenk hoe je dat kalibreren kunt aanpakken voor een lichtsensor.
 sensor, gemeten bij een reeks temperaturen.
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-32.jpg?height=406&width=725&top_left_y=231&top_left_x=1099)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-32.jpg?height=406&width=725&top_left_y=231&top_left_x=1099)
 
 Figuur 3.5 Signaal (Volt) van sensoren: een met alle
 waarden in een rechte lijn (lineair) en een niet-lineaire
@@ -137,12 +167,24 @@ Sporthorloges zijn in alle soorten en maten verkrijgbaar, met prijzen variërend
 Als je geen sporthorloge hebt dan is het installeren van Strava op je telefoon ook genoeg. Naast Strava zijn er ook andere apps. Als je al een andere sportapp gebruikt dan kun je die ook gebruiken voor de opdrachten. Vermeld dat dan wel.
 
 Je onderzoekt een sporthorloge in combinatie met het gebruik van Strava. Hoewel er allerlei verschillende platforms zijn waarop
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-33.jpg?height=338&width=520&top_left_y=1599&top_left_x=1302)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-33.jpg?height=338&width=520&top_left_y=1599&top_left_x=1302)
 
 Figuur 3.6 Een sporthorloge Bron: Coolblue
 https:///Www.androidplanet.n//nieuws/smartwatchstraling/(afbeelding, wordt 3.8)
 je de gegevens van een sporthorloge kunt verzamelen, is in deze opdracht gekozen voor Strava, omdat dit het meest gebruikte platform is. Maar overal waar je leest over Strava, kun je ook een de naam van een andere, soortgelijke app invullen. Voorbeelden zijn: Nike Run Club, RunKeeper, Endomondo etc. (zie figuur 3.7 en 3.8). Bespreek met je docent wat je/jullie gaan gebruiken in de klas. Je hoeft niet perse een sporthorloge te hebben om deze apps te kunnen gebruiken. bij heel veel activiteiten heb je al genoeg aan een telefoon.
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-34.jpg?height=834&width=1557&top_left_y=234&top_left_x=232)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-34.jpg?height=834&width=1557&top_left_y=234&top_left_x=232)
 
 Figuur 3.7 Screenshot van Endomondo van een fietsroute van Erik Dekker (tijdens de lock-down, in plaats van Italië) en overzichten van de data die de app verzamelt en presenteert.
 
@@ -181,7 +223,13 @@ Download Strava (* of een andere app naar keuze) op je telefoon en maak een acco
 Activiteiten die je met het sporthorloge of je telefoon registreert, levert gegevens op. Dat zijn waarden die uit een reeks sensoren komen. Die gegevens uit je sporthorloge / de sportapp op je telefoon worden via je telefoon naar Strava gestuurd en daar worden de gegevens in jouw account geplaatst. De positiegegevens uit de gps van je device worden op een kaart getekend en de gegevens van andere sporters worden daarmee vergeleken. Vervolgens wordt die informatie weer naar je telefoon of computer gestuurd om het daar te kunnen bekijken en naar de mensen die je volgt gaat een berichtje van wat je hebt gedaan. Vervolgens reageert iemand en die opmerking gaat via internet naar Strava en weer naar jouw telefoon.
 
 Als je een sportactiviteit doet met je telefoon of sporthorloge, kun je de gegevens van die activiteit via een app in kaarten en grafieken te zien krijgen. De volgende gegevens zijn o.a. te zien: de gemiddelde snelheid, hartslag, aantal stappen per minuut, hoogte, afstand en tijd van de activiteit.
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-35.jpg?height=717&width=1754&top_left_y=1252&top_left_x=157)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-35.jpg?height=717&width=1754&top_left_y=1252&top_left_x=157)
 
 Figuur 3.8 Screenshots van de gegevens van een sportactiviteit in Strava: een rondje hardlopen.
 

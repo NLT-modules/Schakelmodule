@@ -10,7 +10,13 @@ downloads:
 
 ## Data opslag en transport
 
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-51.jpg?height=1195&width=1580&top_left_y=339&top_left_x=227)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-51.jpg?height=1195&width=1580&top_left_y=339&top_left_x=227)
 
 ## Leerdoelen
 
@@ -38,7 +44,13 @@ Digitale technologie gebruikt de binaire code die twee (= bi) waarden kan aannem
 ``` <br> Zoek enkele voorbeelden van digitale codes die op spullen, sites of drukwerk te vinden zijn. Welke soorten codes kun je terugvinden?
 
 Met een rijtje van 2 binaire waarden kun je 4 combinaties maken: 00, 01, 10 en 11. Dat is $2^{2}$. Een rijtjes van 8 bits (een byte) wordt veel gebruikt. Dit geeft $2^{8}$ combinaties, ofwel 256. Met langere reeksen kunnen meer verschillende waarden worden gecodeerd. De TMP-36 temperatuursensor stuurt een analoog signaal naar de Arduino, dat omgezet
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-52.jpg?height=284&width=763&top_left_y=1494&top_left_x=992)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-52.jpg?height=284&width=763&top_left_y=1494&top_left_x=992)
 
 Figuur 5.2 Een byte is uit een rijtje van 8 bits. Deze 24 bits zijn in 3 byte verdeeld. 8 bits geeft 256 combinaties.
 wordt in discrete (stapgewijze) decimale waarden 0 tot 1024. (Ga eens na hoeveel bits er voor elke waarde nodig zijn).
@@ -56,10 +68,22 @@ digitaliseren is. Maar ook: hoe meer rekenkracht de processor moeten hebben om e
 
 ## Data bewerken, opslaan en transporteren
 
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-53.jpg?height=244&width=258&top_left_y=666&top_left_x=179)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-53.jpg?height=244&width=258&top_left_y=666&top_left_x=179)
 
 Figuur 5.3 Opslag en uitvoer van digitaal signaal
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-53.jpg?height=281&width=278&top_left_y=1093&top_left_x=158)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-53.jpg?height=281&width=278&top_left_y=1093&top_left_x=158)
 
 Figuur 5.4 Verwerking van digitale gegevens in de processor
 
@@ -115,7 +139,13 @@ Hoe werkt die UTP kabel? Waarom heeft die meerdere draden?
 Het sneller en over langere afstanden transporteren van digitale informatie gaat tegenwoordig via glasvezel. Hoewel met een iets lagere snelheid dan lichtsnelheid in vacuüm, is het transport wel sneller dan in metaal. Er is bovendien minder verzwakking van het signaal over langere afstand.
 
 [^0]Voor de glasvezel worden lasers gebruikt (die een digitaal signaal omzetten in lichtpulsen) en fotodiodes (die het digitale lichtsignaal weer in stroom omzetten). De lasers kunnen heel klein zijn, en zelfs als onderdeel van een computerchip worden gebouwd. Daardoor lukt het ook om tussen computers de glasvezel voor communicatie in te zetten. Een stap verder is de ontwikkeling van een optische computer waar alle bewerkingen met licht gebeuren.
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-55.jpg?height=772&width=1558&top_left_y=522&top_left_x=229)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-55.jpg?height=772&width=1558&top_left_y=522&top_left_x=229)
 
 Figuur 5.5 Kwaliteit van datatransport met licht in glasvezels
 Meer bronnen over glasvezel:
@@ -181,7 +211,13 @@ Sommige techbedrijven hebben zoveel servers dat ze eigen datacenters bouwen, den
 ## Elektriciteit
 
 Datacenters gebruiken veel stroom. Zoveel zelfs dat ze windmolenparken in de buurt hebben om groene stroom te leveren. Tegelijkertijd zien we dat het energieverbruik van datacenters al tien jaar stabiel is, terwijl het internetverkeer en de werkbelasting voor de datacenters enorm gestegen zijn. Dit is voor een belangrijk deel te danken aan het samenvoegen van kleine inefficiënte serverruimtes die bedrijven zelf ingericht hadden, tot professionele, grote en efficiëntere datacenters die we nu kennen. Ook het gebruik van meer Cloud-applicaties heeft bijgedragen aan het gelijk blijven van het stroomverbruik. Het restproduct van stroomverbruik in een datacenter is restwarmte. Naast besparing op
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-58.jpg?height=647&width=812&top_left_y=930&top_left_x=1005)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-58.jpg?height=647&width=812&top_left_y=930&top_left_x=1005)
 
 Figuur 5.6 Energieverbruik van datacenters, in vergelijking met dataverwerking en internetverkeer.
 stroomverbruik (bijvoorbeeld door harde schijven te vervangen door solid state drives) wordt ook gekeken of de restwarmte nuttig gebruikt kan worden.
@@ -284,7 +320,13 @@ In bijlage 2 in de moduledatabase staat een opdracht over de digitale wereld ach
 ## d. Verder te verkennen / te onderzoeken toepassingen
 
 Er is veel aan de orde gekomen in dit hoofdstuk, maar niet zo uitgebreid. Er valt nog veel te ontdekken. Verdiep je in één van onderstaande thema's. Met de kennis van Arduino of andere platforms kun je zelf ook aan de slag om met dit thema iets te bouwen.
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-63.jpg?height=861&width=618&top_left_y=232&top_left_x=1207)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-63.jpg?height=861&width=618&top_left_y=232&top_left_x=1207)
 
 Figuur 5.7 Landsat satelliet die dagelijks honderden foto's van het aardoppervlak maakt
 
@@ -301,7 +343,13 @@ Maak daarvan een presentatie, informatieve poster of een schriftelijk verslag.
 
 ## 6 Uitvoer: de actuator
 
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-64.jpg?height=1171&width=1554&top_left_y=314&top_left_x=237)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-64.jpg?height=1171&width=1554&top_left_y=314&top_left_x=237)
 
 ## Leerdoelen
 
@@ -350,7 +398,13 @@ Met actuatoren die licht geven (LED) of blokkeren (vloeibare kristallen) als bee
 Een beeldscherm kan een matrix zijn van LED's (die zelf licht uitzenden), zoals in een OLED (Organische LED) scherm. Vloeibare kristallen (die licht doorlaten als ze spanning krijgen) vormen samen met een witte achtergrondverlichting een LCD (Liquid Cristal Display). TFT (Dunne Film Transistor) is een variant van LCD die transistoren heeft om de individuele pixels te kunnen schakelen. De verfijnde mogelijkheden om deze beeldschermen dun en flexibel te maken zorgt voor de ongekend grote beeldschermen met miljoenen pixels en kleuren en hoge snelheid.
 
 Een digitale projector (beamer) heeft kleine, doorschijnende LCD beeldschermpjes voor de drie primaire kleuren rood, groen en blauw, met een heldere lamp erachter. Dit is steeds vaker een heldere LED, vandaar LED beamer. Ook de
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-66.jpg?height=255&width=256&top_left_y=929&top_left_x=1551)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-66.jpg?height=255&width=256&top_left_y=929&top_left_x=1551)
 
 Figuur 6.1 Uitvoeren: de actuator
 bioscoop gebruikt tegenwoordig digitale projectoren.
@@ -370,7 +424,13 @@ kunnen aansturen. Door de snellere processoren, glasvezel en betere datacompress
 
 ## Verplaatsen: motoren
 
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-67.jpg?height=253&width=250&top_left_y=476&top_left_x=246)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-67.jpg?height=253&width=250&top_left_y=476&top_left_x=246)
 
 Figuur 6.2 Digitaal - Analoog conversie
 
@@ -449,7 +509,13 @@ Maakopdrachten op verschillende niveau's. Met een serie maakopdrachten kan telke
 ### 6.10 Opdracht
 
 In bijlage 3 in de moduledatabase wordt de NeoPixel beschreven. Ga daarmee aan de slag, en experimenteer met de mogelijkheden die zulke LEDs bieden.
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-70.jpg?height=189&width=1444&top_left_y=819&top_left_x=363)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-70.jpg?height=189&width=1444&top_left_y=819&top_left_x=363)
 
 Programmeer vervolgens de Arduino (of een ander device), zodat een serie NeoPixels gebruikt kunnen worden als mooie richtingaanwijzer voor een moderne auto (ledjes die van links naar rechts oranje oplichten). De richtingaanwijzers aan de achterzijde zijn daarna uit, aan de voorzijde geven ze na gebruik continu wit licht geven als dagrijverlichting. Maak voor beide situaties een programma.
 

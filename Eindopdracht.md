@@ -62,7 +62,13 @@ Ontwikkel op basis van je kennis over digitale sensoren en meetprincipes een sys
 4 De aangevoerde hoeveelheid rivierwater kan worden geregeld en gevarieerd
 5 Regenval nagebootst kan worden.
 Alle sensoren en actuatoren moeten uitgelezen worden en data moet op één plaats verzameld worden. Kijk voor informatie over technieken van sensoren en modelbouw op wetropolis.nl.
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-73.jpg?height=841&width=1106&top_left_y=1470&top_left_x=612)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-73.jpg?height=841&width=1106&top_left_y=1470&top_left_x=612)
 
 Figuur 7.1 Originele Wetropolis model voor rivierwater in de stad
 
@@ -82,7 +88,13 @@ Voorbeelden zijn:
 - Een systeem dat de troebelheid in vijvers meet (met mogelijk in de zomer blauwalgrisico) en waarschuwt als het te troebel wordt (zie figuur 7.2).
 
 Er zijn nog veel meer dingen te bedenken. Bovenstaande apparaten zijn ook al echt door leerlingen gebouwd, dus het kan echt.
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-74.jpg?height=912&width=1363&top_left_y=1534&top_left_x=229)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-74.jpg?height=912&width=1363&top_left_y=1534&top_left_x=229)
 
 Figuur 7.2 Een device dat leerlingen gemaakt hebben om troebelheid in vijvers te meten
 
@@ -114,7 +126,13 @@ Het kan bijvoorbeeld voorkomen dat je ziek wordt, bijvoorbeeld door griep. Als j
 Tijdens de nacht produceren we vocht door transpiratie, soms tot wel een liter per nacht. Dat gaat niet heel gelijkmatig en is ook niet bij iedereen hetzelfde. Als het gelijkmatig en niet hinderlijk is, spreken we over nachtelijke transpiratie. Daarin zijn bij mensen zo'n zeven patronen te herkennen, waarbij de vorm naar een diersoort genoemd is die er op lijkt.
 
 Als je er last van hebt en er bijvoorbeeld wakker van wordt, praten we over nachtzweten. Ook bij veel diersoorten blijkt
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-76.jpg?height=507&width=952&top_left_y=980&top_left_x=1003)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-76.jpg?height=507&width=952&top_left_y=980&top_left_x=1003)
 
 Figuur 7.3 Patronen voor nachtelijk zweten, gemeten met Q-strip
 nachtelijke transpiratie in patronen voor te komen.
@@ -128,7 +146,13 @@ Naast de samenstelling van het zweetvocht is ook van belang op welke momenten da
 ## Onderzoek doen
 
 Dat zweetproductie een informatiebron is weten we, maar wat die zweetproductie ons kan vertellen is nog niet duidelijk. Er is nog nauwelijks wetenschappelijk onderzoek naar gedaan, voornamelijk omdat meten aan zweten heel complex is. In het verleden werd dat gedaan door proefpersonen te laten slapen in kamers met een temperatur van 30 graden Celcius (pfff). Met de Q-strip
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-77.jpg?height=481&width=923&top_left_y=245&top_left_x=972)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-77.jpg?height=481&width=923&top_left_y=245&top_left_x=972)
 
 Figuur 7.4 Meetresultaten Q-strip
 wordt dat een heel stuk eenvoudiger, omdat die gevoelig is voor de normale zweetproductie bij de normale slaaptemperatuur.
@@ -143,7 +167,13 @@ In de opdracht is een aantal onderdelen te herkennen:
 - Wearables voor dataverzameling overdag
 - Verzamelen en transport van data
 - Analyse van meetdata om te ontdekken wat de transpiratiepatronen betekenen
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-77.jpg?height=797&width=643&top_left_y=932&top_left_x=1226)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-77.jpg?height=797&width=643&top_left_y=932&top_left_x=1226)
 
 Figuur 7.5 Plaatsing van een Q-strip sensor op matras
 
@@ -165,7 +195,13 @@ Benodigdheden:
 - Papier
 
 Smeer de koolstofdraden dun in met uierzalf. Dit zorgt ervoor dat de 7 micrometer dunne koolstofvezeltjes aan elkaar blijven kleven. Ook kun je zo een bundel koolstofvezel splitsen
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-78.jpg?height=455&width=612&top_left_y=523&top_left_x=1233)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-78.jpg?height=455&width=612&top_left_y=523&top_left_x=1233)
 
 Figuur 7.6 Een Q-strip sensor en meetdevice (Arduino en vochtsensor ingebouwd)
 in dunnere bundels ( 800 TEX kan gesplitst worden in 4 draden van 200 TEX).
@@ -185,7 +221,13 @@ Gebruik de Q-strip testunit, of een vochtigheidssensor, met een display om te te
 Als de draden goed geïsoleerd zijn, kan er alleen stroom van de ene naar de andere draad komen als er vocht in de tissue terecht komt. De Q-striptranspiratiesensor is dan klaar voor gebruik.
 
 De koolstofvezel kan met geïsoleerd metaaldraad verlengd worden (solderen
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-79.jpg?height=701&width=918&top_left_y=232&top_left_x=906)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-79.jpg?height=701&width=918&top_left_y=232&top_left_x=906)
 
 Figuur 7.7 Een testdevice voor vochtsensor: de metalen strips maken contact met de Arduino-vochtsensor in het kastje en het display laat de geleidbaarheid zien. Het binnenwerk van deze device kun je zelf bouwen met de instructies.
 is onmogelijk). Vlecht de draden koolstof en metaal in elkaar en zet ze vast met lijm of tape, een krimpkous of elektrisch geleidende verf. Bevestig de metaaldraad aan de vochtsensor van de Arduino.
@@ -198,7 +240,13 @@ Gebruik dezelfde werkwijze, maar plak nu drie tot vier stroken ( 9 cm breed) aan
 Voor langdurig gebruik kan de Q-strip in een drager geschoven worden die voldoende stevigheid geeft om de Q-strip onder een laken te kunnen leggen en gedurende de nacht te gaan meten. Wij gebruiken de strip nu zonder extra drager.
 
 De Q-strip zal niet super precies zijn, maar je kunt hele behoorlijke resultaten behalen als je een strip gedurende langere tijd (zeg 14 dagen) gebruikt en kun je iets zeggen over het nachtelijke ritme van de transpiratie van je lichaam.
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-79.jpg?height=409&width=549&top_left_y=1760&top_left_x=1273)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-79.jpg?height=409&width=549&top_left_y=1760&top_left_x=1273)
 
 Figuur 7.8 Arduino met Groove shield, vochtsensor en display. Dit zit ingebouwd in de testdevice van figuur 7.3.5, en kun je zelf bouwen met de instructies.
 
@@ -292,40 +340,82 @@ Sommige van onderstaande lesmodules nlt gaan in zijn geheel over een onderdeel v
 ## Fijnstof
 
 Nederlanders overlijden gemiddeld 9 maanden vroeger door fijnstof. Hoe zit het met de luchtkwaliteit rondom je school? Is dit aanleiding tot een vervolgplan van deze burgerwetenschapaanpak? Samen op zoek naar oplossingen voor een betere luchtkwaliteit en een steentje bijdragen aan het Schone Lucht Akkoord. GLOBE Nederland en het RIVM ontwikkelden deze lesmodule om op middelbare scholen de fijnstofconcentratie te meten in hun omgeving. Doe mee met de fijnstofcampagne!
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-83.jpg?height=441&width=324&top_left_y=699&top_left_x=1500)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-83.jpg?height=441&width=324&top_left_y=699&top_left_x=1500)
 
 ## Modelleren
 
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-83.jpg?height=458&width=332&top_left_y=1230&top_left_x=237)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-83.jpg?height=458&width=332&top_left_y=1230&top_left_x=237)
 
 Modellen helpen de mens om voorspellingen te doen en bedreigingen beheersbaar te maken. In deze module ontdek je hoe situaties en processen met behulp van dynamische modellen beschreven kunnen worden. De contexten waar je aan werkt zijn de verspreiding van corona onder de bevolking, de waterhuishouding in Nederland, de groei van de wereldbevolking en/of het saneren van een vervuilde bodem.
 
 ## Bio-informatica
 
 Het concept genexpressie (transcriptie, splicing, translatie) wordt vanuit programmeren in Python benaderd. Hierbij wordt het biologisch concept vertaald naar praktische programmeer opdrachten. Via bestaande tools worden beginselen van het lezen van DNA geoefend. In een individuele eindopdracht wordt naar een onbekend gen(product) en de genetische oorzaak van een afwijkend genproduct gezocht.
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-83.jpg?height=463&width=320&top_left_y=1833&top_left_x=1479)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-83.jpg?height=463&width=320&top_left_y=1833&top_left_x=1479)
 
 ## De toekomst van de landbouw
 
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-84.jpg?height=512&width=361&top_left_y=304&top_left_x=231)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-84.jpg?height=512&width=361&top_left_y=304&top_left_x=231)
 
 Nederland staat aan de vooravond van een grootschalige herinrichting van de land- en tuinbouw. Het moet slimmer, efficiënter, schoner, met minder energie, minder landoppervlak en vooral ook meer ecologisch. In deze lesmodule verdiep je je in technologische innovaties, die in de landbouw ingezet worden. Robots die planten automatisch herkennen en verwijderen, spuiten tegen insecten, bemesten en watergeven gebeurt op basis van BigData van sensoren van o.a. drones. Je bouwt een eigen visie op over het complexe systeem van schakels binnen de voedselproductie en -distributie. Vanuit die visie werk je toe naar een toekomstplan, waarin al deze aspecten een rol spelen. Zo draag je positief bij aan de toekomst.
 
 ## Cybersecurity
 
 Cybersecurity gaat over het beveiligen van digitale informatie en digitale diensten die een bepaalde waarde hebben. Die waarde zorgt ervoor dat je de informatie of dienst wilt afschermen. Uiteindelijk gaan diensten over het lezen of wijzigen van digitale gegevens: de gegevens over je bankrekening, al je emails of de inhoud van je Facebook pagina. 'Cyber' in cybersecurity benadrukt extra dat het gaat om security in cyberspace, de virtuele wereld die bestaat uit computers en de netwerken tussen computers.
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-84.jpg?height=489&width=355&top_left_y=983&top_left_x=1473)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-84.jpg?height=489&width=355&top_left_y=983&top_left_x=1473)
 
 ## Artificiële Intelligentie (AI)
 
 Een lesmodule waarin de leerlingen een positief project doen: ze zetten Al in om de wereld iets beter
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-84.jpg?height=495&width=409&top_left_y=1580&top_left_x=235)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-84.jpg?height=495&width=409&top_left_y=1580&top_left_x=235)
 te maken. Na afloop van de module heeft de leerling geleerd dat AI een breed vakgebied is, dat gaat van het programmeren van algoritmes tot het doen van medisch onderzoek. Het is een samenspel van verschillende disciplines: spraakherkenning, machine learning, beeldherkenning en natural language processing. Kunstmatige intelligentie wordt gebruikt als je een verzekering wilt afsluiten, als je zit te 'netflixen', als je via social media contact houdt met je vrienden en op nog veel meer manieren.
 
 ## Leeg analyseschema
 
 Ook als los werkblad beschikbaar in de moduledatabase (https://module-database.betavak-nlt.nl/).
-![](https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-85.jpg?height=1197&width=1580&top_left_y=458&top_left_x=227)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-85.jpg?height=1197&width=1580&top_left_y=458&top_left_x=227)
 
 ## Bijlagen verkrijgbaar in de moduledatabase
 

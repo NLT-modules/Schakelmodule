@@ -106,7 +106,13 @@ Stel dat je een reeks metingen wilt wegschrijven is het bijv. belangrijk om elke
 Het goed gebruiken van de SD kaart is een van de pittigste onderdelen van je systeem, maar het is het wel het onderdeel dat het systeem meer maakt dan een dom apparaatje. Nu kun je er namelijk onderzoek mee doen en daarmee je apparaat veel nauwkeuriger evalueren, wat een belangrijke stap is in de ontwerpcyclus.
 
 Daarnaast is de code voor het wegschrijven naar de SD kaart best complex (zie onder). Het vergt enige oefening om al je andere code op de juiste plek in de code neer te zetten waardoor alle verschillende onderdelen samen werken. In hoofdstuk 8 ga je hier vanzelf een voorbeeld van zien. Omdat jullie allemaal iets anders gaan maken, zal voor iedereen de uiteindelijke oplossing anders zijn.
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-38.jpg?height=1117&width=1543&top_left_y=301&top_left_x=265)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-38.jpg?height=1117&width=1543&top_left_y=301&top_left_x=265)
 
 Aan/uitschema voor een micro-sd cardreader
 

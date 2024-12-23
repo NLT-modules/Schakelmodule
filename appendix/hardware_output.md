@@ -4,10 +4,22 @@
 ## LED
 
 Een LED is een diode die licht kan uitzenden. De afkorting staat voor Light Emitting Diode. Een diode is een elektronische component, een zogenaamde halfgeleider.
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-25.jpg?height=506&width=820&top_left_y=809&top_left_x=635)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-25.jpg?height=506&width=820&top_left_y=809&top_left_x=635)
 
 De LED wordt geleidend en gaat licht uitzenden zodra er een stroom in de juiste richting gaat lopen: de LED heeft een positieve en een negatieve aansluiting. Als de LED verkeerd om wordt gemonteerd loopt er geen stroom, de LED staat dan in sperstand.
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-25.jpg?height=298&width=829&top_left_y=1641&top_left_x=622)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-25.jpg?height=298&width=829&top_left_y=1641&top_left_x=622)
 
 ## Schematisch Symbool van de LED
 
@@ -32,7 +44,13 @@ weerstand met waarde 560 Ohm
 Neopixel LEDs zijn fantastisch. Het zijn LEDjes die alle kleuren en intensiteit kunnen aannemen en je kunt heel makkelijk een heleboel LEDs aansturen met een paar draadjes en wat slimme code.
 
 Om Neopixels te gebruiken moet je een library installeren op je laptop. In die library zitten een heleboel commandos die speciaal zijn gemaakt voor de Neopixel LEDs. Hoe je de library installeert zie je op onderstaande website.
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-26.jpg?height=273&width=276&top_left_y=1274&top_left_x=179)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-26.jpg?height=273&width=276&top_left_y=1274&top_left_x=179)
 
 Arduino tutorial neopixel
 https://create.arduino.cc/projecthub/robocircuits/neopixel-tutorial-1ccfb9
@@ -75,7 +93,13 @@ void loop() {
 }
 ```
 
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-27.jpg?height=278&width=284&top_left_y=1374&top_left_x=172)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-27.jpg?height=278&width=284&top_left_y=1374&top_left_x=172)
 
 ## Neopixel voorbeeld
 
@@ -91,16 +115,40 @@ Hieronder vind je een code die werkt. Het blijkt in de praktijk wel tricky te zi
 twee libraries nodig. Een library is een collectie van programmeercommando's die samen helpen om bepaalde taken uit te voeren. De libraries die je hier nodig hebt zijn wire.h en LiquidCrystal_I2c.h.
 
 Wire.h is standaard geïnstalleerd, maar die andere niet. Via de link hieronder vind je een zip bestand. In de Arduino omgeving kun je zo'n bibliotheek inladen vanuit een zip bestand (zie screenshot hieronder).
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-28.jpg?height=395&width=829&top_left_y=516&top_left_x=611)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-28.jpg?height=395&width=829&top_left_y=516&top_left_x=611)
 
 Een "kale" display met veel aansluitingen.
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-28.jpg?height=284&width=284&top_left_y=1057&top_left_x=172)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-28.jpg?height=284&width=284&top_left_y=1057&top_left_x=172)
 link naar liquidcrystal_i2c (datum link: 7-2-2022)
 https://downloads.arduino.cc/libraries/github.com/marcoschwartz/LiquidCr ystal I2C-1.1.2.zip
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-28.jpg?height=493&width=1203&top_left_y=1444&top_left_x=432)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-28.jpg?height=493&width=1203&top_left_y=1444&top_left_x=432)
 
 Toevoegen van een zip-bibliotheek (library)
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-29.jpg?height=755&width=1351&top_left_y=199&top_left_x=358)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-29.jpg?height=755&width=1351&top_left_y=199&top_left_x=358)
 
 Display voorzien van i2c interface: aansluitvoorbeeld.
 
@@ -142,7 +190,13 @@ Een relais is een schakelaar om actuators te kunnen inschakelen en uitschakelen.
 
 Je gebruikt een relais wanneer de Arduino zelf niet genoeg vermogen kan leveren voor de actuator.
 Ook kun je een relais gebruiken om een circuit galvanisch gescheiden van de Arduino te kunnen schakelen, bijvoorbeeld wanneer een element op netspanning werkt, of op een andere spanning dan 5 Volt.
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-30.jpg?height=901&width=1221&top_left_y=503&top_left_x=406)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-30.jpg?height=901&width=1221&top_left_y=503&top_left_x=406)
 
 ## Aansluiten
 
@@ -171,7 +225,13 @@ Door bijvoorbeeld iedere seconde afwisselend aan- en uit te schakelen wordt er h
 Maar: iedere halve seconde is een erg lage frequentie. Dan zou een lamp bijvoorbeeld erg vervelend knipperen, wel handig als knipperlicht, niet handig als je de lamp juist zou willen dimmen.
 
 Dus, een bruikbaar PWM signaal heeft een veel hogere frequentie, want dan krijg je een heel goed regelbaar signaal.
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-31.jpg?height=241&width=693&top_left_y=1122&top_left_x=176)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-31.jpg?height=241&width=693&top_left_y=1122&top_left_x=176)
 
 Hiernaast zie je een PWM signaal. Een digitale uitgang van de Arduino wordt op een vaste frequentie geschakeld tussen laag en hoog. De verhouding tussen de duur van laag en hoog bepaal je zelf. De duur van de puls (hoog) noem je de PulsBreedte (PulseWidth). In dit geval is de Dutycycle 33\%.
 
@@ -181,7 +241,13 @@ De Arduino Uno bezit een paar poorten die je kunt gebruiken om een PWM signaal t
 
 Arduino Uno pin 3, 5, 6, 9, 10 en 11 kunnen als PWM uitgang gebruikt worden.
 (Pin 5 en 6 werken met een 980 Hz frequentie. Poorten 3, 9, 10 en 11 werken met 490 Hz .)
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-31.jpg?height=646&width=864&top_left_y=2030&top_left_x=596)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-31.jpg?height=646&width=864&top_left_y=2030&top_left_x=596)
 
 Solid State Switch (Elektronische Schakelaar) om 2 motoren te regelen.
 
@@ -242,7 +308,13 @@ delay(500); // wacht xx ms
 Een standaard DC motor (gelijkstroom elektromotor) wordt toegepast in allerlei soorten aandrijvingen. Denk aan een accuboormachine of een polijstmachientje bij de pedicure bijvoorbeeld.
 
 De motor schakel je niet rechtstreeks vanuit de poort van de Arduino maar je gebruikt tussen Arduino en motor een relais of een solid-state-switch. Hiermee schakel je dan een externe voeding aan- of uit.
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-33.jpg?height=281&width=407&top_left_y=1136&top_left_x=179)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-33.jpg?height=281&width=407&top_left_y=1136&top_left_x=179)
 
 Voorbeeldschakeling met Arduino, Relais en Lamp. https://maken.wikiwijs.nl/152360/NLT__Digitale_Techniek_TCC\#!page-7105 936
 
@@ -259,7 +331,13 @@ In rust staan beide relais in de ruststand. De motor is dan met beide aansluitin
 
 Er gebeurt dan dus niks.
 De truck zit hem in het afzonderlijk aansturen van één van de relais. Dan krijgt de motor energie toegevoerd, via het ene relais zal de motor met de klok mee draaien, met het andere relais tegen de klok in!
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-34.jpg?height=721&width=1535&top_left_y=182&top_left_x=266)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-34.jpg?height=721&width=1535&top_left_y=182&top_left_x=266)
 
 ## Stappenmotor
 
@@ -270,7 +348,13 @@ De truck zit hem in het afzonderlijk aansturen van één van de relais. Dan krij
 De buzzer is een soort luidspreker. Deze kan een geluid produceren. Vaak een pieptoon of een zoemtoon, die ontstaat doordat een membraan gaat trillen onder invloed van een spanning of stroom.
 
 De buzzer die hier als voorbeeld is afgebeeld kan direct worden aangestuurd door een digitale uitgang van de Arduino, 5 Volt gelijkspanning, dus let op de positieve en negatieve (GND) aansluiting.
-![](https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-34.jpg?height=370&width=866&top_left_y=1848&top_left_x=592)
+![]
+```{figure}
+:width: 70%
+:name: fig_
+
+
+```(https://cdn.mathpix.com/cropped/2024_12_19_51786a43dd384a158ec8g-34.jpg?height=370&width=866&top_left_y=1848&top_left_x=592)
 
 Miniatuurbuzzer
 
