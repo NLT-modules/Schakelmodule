@@ -33,6 +33,7 @@ Deze module is bedoeld voor de lessen NLT op havo en vwo. In een later stadium z
 - Aernout van Rossum (Pre-U, Universiteit Twente; Thomas a Kempis College, Arnhem)
 - Jan Jaap Wietsma (Pre-U, Universiteit Twente, NLT vaksteunpunt Oost; Greijdanus, Zwolle en projectleiding)
 - Met ondersteuning van Edgar de Wit (Vereniging NLT)
+- Digitale versie: Freek Pols (TU Delft)
 
 ## Partners
 
@@ -64,13 +65,14 @@ De auteursrechten van dit werk liggen bij Vereniging NLT.
 
 Certificeringsnummer 6141-100-VE2-2F2
 
-Bij deze module is [online materiaal]https://maken.wikiwijs.nl/171772/Schakelmodule_Digitale_Technologie__online_materiaal beschikbaar.
-De bijlagen, waarnaar verwezen wordt in deze module, zijn in deze gedrukte achterwege gelaten. Alle materialen zijn beschikbaar in de Moduledatabase van Vereniging NLT (https://module-database.betavak-nlt.nl/).
+Bij deze module is [online materiaal op wikiwijs](https://maken.wikiwijs.nl/171772/Schakelmodule_Digitale_Technologie__online_materiaal) beschikbaar.
+
+De bijlagen, waarnaar verwezen wordt in deze module, zijn in deze gedrukte achterwege gelaten. Alle materialen zijn beschikbaar in de [Moduledatabase van Vereniging NLT](https://module-database.betavak-nlt.nl/).
 
 ## Online materiaal en auteurs
 |||
 |---|---|
-|Auteurs| Digitaal Redacteur ; Rudy Jonker ; H. Dirks|
+|Auteurs| Digitaal Redacteur <br> Rudy Jonker ; H. Dirks|
 |Team| Schakelmodule Digitale Technologie|
 |Laatst gewijzigd|24 februari 2023|
 |Licentie|CC Naamsvermelding-GelijkDelen 4.0 Internationale licentie |
@@ -78,4 +80,5 @@ De bijlagen, waarnaar verwezen wordt in deze module, zijn in deze gedrukte achte
 
 ## Ondersteuning
 Ondersteuning voor deze module wordt gegeven door NLT vaksteunpunt Oost (nlt@beta-oost.nl).
+
 De auteurs hebben zo goed mogelijk de bronnen vermeld en gebruik gemaakt van rechtenvrije afbeeldingen. Mochten er desondanks personen of instanties zijn die rechten menen te kunnen doen gelden op tekstgedeeltes, illustraties enz. van deze module, dan worden zij verzocht zich in verbinding te stellen met NLT vaksteunpunt Oost via het genoemde e-mailadres.

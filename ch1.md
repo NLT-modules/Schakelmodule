@@ -23,7 +23,7 @@ downloads:
 
 Digitale technologie is zó gewoon en onmisbaar geworden voor ons dagelijks leven, dat we er amper meer bij stil staan. Computers, navigatie, mobieltjes, online video, streaming, appen, bellen, betalen met de pin: we kunnen niet meer zonder. Het is moeilijk om je een wereld voor te stellen zonder die technologie. Dat betekent ook: in welke richting je ook gaat studeren en werken, je ontkomt niet meer aan digitale technologie. Daarom is het goed om een idee te krijgen wat het is, hoe het werkt, blijft werken en beveiligd wordt, en welke (vaak onzichtbare) invloed deze technologie op ons leven heeft. Om je op weg te helpen hoe digitale technologie gebruikt wordt, beginnen we met een paar voorbeelden.
 
-## De tandarts
+**De tandarts**
 
 In de afgelopen tijd ben je vast een keer bij de tandarts geweest. Heb je toen gemerkt hoe de tandarts digitale technologie gebruikt? Waarschijnlijk niet zo bewust. De afspraak is in een digitale agenda vastgelegd. Mogelijk heb je een sms of mailtje ontvangen dat je de afspraak niet moet vergeten. De tandartsstoel wordt met knopjes keurig ingesteld en de tandarts heeft jouw gegevens bij de hand. Uiteraard op een scherm waarin precies te zien is wat er met jouw gebit gebeurd is in de afgelopen jaren, inclusief de röntgenfoto's. Nieuwe foto nodig? Jij klemt een plaatje met een draad tussen je tanden en krijgt een apparaat naast je wang. De tandarts stapt even weg, en bekijkt enkele seconden later de foto op het scherm en kan direct bepalen of er nog iets aan je gebit gebeuren moet. Opzienbarend? Misschien niet, maar wel een groot verschil met dertig jaar geleden. Een afspraak had je op een kaartje, dat je thuis moest bewaren. Met wat geluk werd je (op het vaste thuisnummer) gebeld als herinnering om te komen, maar dat was voor de uitzonderingen. De tandarts had een papieren kaart met daarop een schema van jouw gebit. Tijdens het onderzoek kreeg (net als nu) de assistent(e) gecodeerd informatie waar eventueel een gaatje zat. Dat werd op de kaart aangetekend, en bijgewerkt als het gerepareerd werd. Een foto werd gemaakt met een ingepakt lichtgevoelig negatief. Als je de volgende keer terugkwam was deze foto ontwikkeld en vastgeniet aan je kaart. In elk geval: het kostte allemaal een stuk meer tijd.
 
@@ -45,21 +45,20 @@ De gegevens die de tandarts verzamelt over jou, en van al zijn/haar andere pati�
 
 Wie die tot zijn beschikking heeft, kan bijvoorbeeld onderzoeken in welke regio's van het land veel gebitsproblemen zijn, welke behandeling tandartsen inzetten of hoe vaak patiënten de tandarts bezoeken. Je kunt zelf vast nog meer onderzoekvragen bedenken.
 
-## Beveiliging en privacy
+```{note} Beveiliging en privacy
 
 Zodra meer mensen computerdata kunnen bekijken is privacy belangrijk. Je wilt liever niet dat jouw persoonlijke gegevens (bijvoorbeeld over je gebit) zomaar door anderen bekeken kunnen worden.
 
 Het verzamelen en gebruiken van digitale gegevens in de zorg luistert nauw. Wie mag ze inzien, waar is toestemming van de patiënt nodig?
 
 Inloggen, veilige verbindingen, onleesbaar maken van gegevens als ze zonder sleutel bekeken worden (encryptie) en bijhouden wie er in de data kijkt: er is veel nodig om privacy te garanderen.
+```
 
 ```{exercise}
 Welke manieren ken je om computers en computergegevens (data) te beschermen?
 ```
 
-## Landbouw
-
-
+**Landbouw**
 ```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-08.jpg?height=535&width=960&top_left_y=361&top_left_x=234
 :width: 70%
 :name: fig_
@@ -80,7 +79,7 @@ Een melkrobot
 
 De koeien worden gemolken met de melkrobot, krijgen hun rantsoen voer doordat ze herkend worden aan een zender om hun nek. De boer bepaalt welk deel van de akker bemest moet worden door satellietgegevens en dronefoto's te gebruiken. Als er geoogst wordt, houdt de oogstmachine precies bij hoeveel elk stukje van de akker opgebracht heeft. Hiermee kan bepaald worden wat er aan de grond moet gebeuren voor het volgende seizoen. De komende jaren zal de landbouw nog meer veranderen, mede door klimaatverandering en eisen rond duurzaamheid en milieu.
 
-## Opsporing
+**Opsporing**
 
 ```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-09.jpg?height=592&width=892&top_left_y=315&top_left_x=228
 :width: 70%
@@ -97,7 +96,7 @@ Over de hele wereld staan digitale apparaten die informatie verzamelen. Camera's
 Het wordt minder plezierig als de data door criminelen gebruikt wordt om mensen op te lichten, of door de overheid om burgers te volgen of te dwarsbomen vanwege hun overtuiging. Niet voor niets zijn privacy en beveiliging extreem belangrijk.
 ```
 
-## De huisarts
+**De huisarts**
 
 Tijdens de Covid-19 pandemie werd de temperatuur van mensen op afstand gemeten om te ontdekken of ze Corona hebben. Als je de huisarts belt, is één van de vragen die je aan de telefoon krijgt: heb je koorts? Om dat zelf te meten, is de kans groot dat je gebruikt maakt van een digitale koortsthermometer. Verderop in de module gaan we die beter bekijken.
 
@@ -205,7 +204,7 @@ Na een sprint zijn de taakbriefjes, als het allemaal soepel gaat, verplaatst naa
 
 Regelmatig kijken of iets dat je gemaakt hebt af is en werkt, wordt bij de ontwikkeling van computerprogramma's veel gedaan. Werken in kleine stukjes die áf zijn is heel prettig. Daardoor blijft een project wendbaar: 'agile' of 'lean and mean'. Het is prettig wanneer je hulp krijgt als je vast loopt. Als er tijdens een sprint iets anders blijkt te moeten, kan er snel bijgestuurd worden. Alles is tijdens een sprint getest. Aan het eind worden alle onderdelen samengebracht en nog een keer getest. Dan is ook duidelijk of het einddoel bereikt is. Aan het begin is duidelijk wat er gemaakt wordt, niet de exacte stappen om er te komen. Details van taken worden in een sprint bepaald en kunnen elke sprint worden bijgesteld.
 
-## Scrum toepassen
+**Scrum toepassen**
 
 In de module kun je scrum ook heel goed gebruiken, bijvoorbeeld om de eindopdracht samen aan te pakken. Precies beschrijven wat er gemaakt moet worden (design), wat daarvoor nodig is en hoe je dat als team aanpakt: dat is waar scrum voor bedoeld is. Je hebt verschillende kwaliteiten in je team nodig, zoals samenwerken, anderen helpen, schrijven, concentreren, overleggen, precies zijn, plannen, stevig doorwerken en dergelijke. De een weet hoe je code schrijft, een ander wat je wilt meten, een handleiding schrijven of praktische verpakking ontwerpen, en een derde kan bruikbare manier bedenken hoe gegevens aan een gebruiker getoond kunnen worden. Elke taak Vraagt weer andere kwaliteiten in je team. Naast algemene kwaliteiten is er ook ervaring met het onderwerp van de module. Daarvoor zijn ruwweg drie mogelijkheden:
 
