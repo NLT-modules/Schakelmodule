@@ -46,7 +46,6 @@ De gegevens die de tandarts verzamelt over jou, en van al zijn/haar andere pati�
 Wie die tot zijn beschikking heeft, kan bijvoorbeeld onderzoeken in welke regio's van het land veel gebitsproblemen zijn, welke behandeling tandartsen inzetten of hoe vaak patiënten de tandarts bezoeken. Je kunt zelf vast nog meer onderzoekvragen bedenken.
 
 ```{note} Beveiliging en privacy
-
 Zodra meer mensen computerdata kunnen bekijken is privacy belangrijk. Je wilt liever niet dat jouw persoonlijke gegevens (bijvoorbeeld over je gebit) zomaar door anderen bekeken kunnen worden.
 
 Het verzamelen en gebruiken van digitale gegevens in de zorg luistert nauw. Wie mag ze inzien, waar is toestemming van de patiënt nodig?
@@ -88,10 +87,10 @@ De koeien worden gemolken met de melkrobot, krijgen hun rantsoen voer doordat ze
 Forensisch onderzoek aan digitale opslagmedia [link](https://blog.veriato.com/the-evolution-of-digital-forensics)
 ```
 
-De politie maakt op uitgebreide schaal gebruik van digitale technologie. Vingerafdrukken of DNA-sporen van een plaats-delict komen in digitale databases. Gegevens uit telefoons of computers van slachtoffers en verdachten leveren belangrijk bewijsmateriaal. Slimme camera's detecteren hardrijders, mensen in de stad of kentekens van gezochte auto's. Een nieuw onderzoekproject gaat van start om deep-fake videobeelden te kunnen opsporen (dit zijn bedrieglijkecht lijkende gemonteerde beelden, waarin het lijkt dat mensen allerlei dingen doen of zeggen, die ze in werkelijkheid nooit gedaan of gezegd hebben). Het maken van dit soort nepbeelden is steeds gemakkelijker en het resultaat is steeds moeilijker van echt te onderscheiden. Speciale opsporingssoftware moet helpen deze fake te ontmaskeren (NOS journaal, 24-5-2021).
+De politie maakt op uitgebreide schaal gebruik van digitale technologie. Vingerafdrukken of DNA-sporen van een plaats-delict komen in digitale databases. Gegevens uit telefoons of computers van slachtoffers en verdachten leveren belangrijk bewijsmateriaal. Slimme camera's detecteren hardrijders, mensen in de stad of kentekens van gezochte auto's. Een nieuw onderzoekproject gaat van start om deep-fake videobeelden te kunnen opsporen (dit zijn bedrieglijk echt lijkende gemonteerde beelden, waarin het lijkt dat mensen allerlei dingen doen of zeggen, die ze in werkelijkheid nooit gedaan of gezegd hebben). Het maken van dit soort nepbeelden is steeds gemakkelijker en het resultaat is steeds moeilijker van echt te onderscheiden. Speciale opsporingssoftware moet helpen deze fake te ontmaskeren (NOS journaal, 24-5-2021).
 
 ```{note} Big data
-Over de hele wereld staan digitale apparaten die informatie verzamelen. Camera's, detectielussen, thermometers, wifitrackers, enzovoorts. Die informatie blijft bewaard in databastanden op computers. Via het internet zijn die gekoppeld. Samen vormen ze de 'big data'. De politie kan er misdrijven mee oplossen, bedrijven vinden zo hun klanten.
+Over de hele wereld staan digitale apparaten die informatie verzamelen. Camera's, detectielussen, thermometers, WIFI-trackers, enzovoorts. Die informatie blijft bewaard in databastanden op computers. Via het internet zijn die gekoppeld. Samen vormen ze de 'big data'. De politie kan er misdrijven mee oplossen, bedrijven vinden zo hun klanten.
 
 Het wordt minder plezierig als de data door criminelen gebruikt wordt om mensen op te lichten, of door de overheid om burgers te volgen of te dwarsbomen vanwege hun overtuiging. Niet voor niets zijn privacy en beveiliging extreem belangrijk.
 ```
@@ -113,7 +112,6 @@ Kies één van de genoemde contexten. Bedenk welke rol digitale technologie nog 
 ```
 
 ```{exercise} Zelfstandig werkend apparaat - systeem - communicatie - dataopslag
-
 **Apparaten of voorwerpen die je misschien zelf gebruikt**
 
 | Wekker | Elektrische tandenborstel | OV-chipkaart |
@@ -137,11 +135,9 @@ Kies één van de genoemde contexten. Bedenk welke rol digitale technologie nog 
 8. Is er in het apparaat privacy-gevoelige informatie aanwezig? Is die beveiligd en hoe?
 9. Hoe kom je er achter waar de informatie uit het apparaat blijft?
 10. Slaat het apparaat data op, en zo ja, wat voor soort data?
-
 ```
 
 ```{exercise} Paspoort digitale kennis en vaardigheden
-
 Om een idee te krijgen wat je over het thema digitale technologie weet en nog zou kunnen leren, kun je het volgende lijstje invullen. Bepaal zo (eventueel in overleg met je docent) welke route door de module het meest geschikt voor je is. Vul dit paspoort na afloop van het werken aan de module opnieuw in om te laten zien wat je geleerd hebt.
 
 |  | Ken ik niet | Ken ik wel | Kan ik gebruiken [Veel, weinig ervaring...] |
@@ -196,7 +192,7 @@ De eerste stap naar een eindproduct is om duidelijk te krijgen wat er nodig is o
 De Scrum-methode voor van een project 
 ``` 
 
-Je hoeft niet persé met een papieren scrumbord te werken. Er zijn talloze online varianten van het scrumbord om taken van een team te managen.
+Je hoeft niet per sé met een papieren scrumbord te werken. Er zijn talloze online varianten van het scrumbord om taken van een team te managen.
 
 Taken worden niet allemaal gelijk aangepakt, maar verdeeld in groepjes die bij elkaar horen, de sprints. Een sprint duurt ongeveer twee weken. Het team staat bij het planbord (scrumbord), en plakt de taken voor een sprint bij elkaar onder 'TO DO'. Dat zijn de taken die er voor deze sprint gedaan moeten worden. Het team verdeelt taken en noteert op de taakbriefjes wie er aan werkt. Taakbriefjes waar aan gewerkt wordt komen onder 'BUSY'. Met één blik op het scrumbord weet je waar je team aan werkt. Vorderingen worden zichtbaar door het verplaatsen van taakbriefjes tijdens de dagelijkse ceremonie: de 'standup'. Taken die afgerond zijn komen bij 'DONE'. Bij taakbriefjes die nog bij BUSY blijven hangen, vragen teamleden elkaar of de taak vordert, of er hulp nodig is. Misschien is de conclusie dat een taak in kleinere stukjes verdeeld moet worden.
 

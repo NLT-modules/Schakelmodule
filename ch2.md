@@ -10,7 +10,6 @@ downloads:
 
 # Introductie op de module Digitale Technologie
 
-
 ```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-14.jpg?height=1129&width=1500&top_left_y=355&top_left_x=215
 :width: 70%
 :name: fig_front
@@ -18,7 +17,9 @@ downloads:
 ```
 
 ## Leerdoelen
+
 **Kennis**
+
 1. Kennismaken met basisbegrippen die in de digitale wereld gebruikt worden. De volgende basisbegrippen kun je uitleggen en gebruiken: sensor, analoog-digitaal conversie, interface, data, processor, dataopslag, datatransport, datacommunicatie, actuator, cloud, ic, programma, programmeren, algoritme, digitaal-analoog conversie.
 2. Opbouw van een digitaal apparaat herkennen en beschrijven aan de hand een schematische weergave (het analyseschema digitale technologie).
 
@@ -69,7 +70,6 @@ In het schema van een digitaal systeem (fig. 2.1) zijn vier belangrijke blokken 
 
 ## Waarnemen (hoofdstuk 3)
 
-
 ```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-16.jpg?height=215&width=215&top_left_y=1914&top_left_x=104
 :width: 20%
 :name: fig_Waarnemen
@@ -86,11 +86,9 @@ Waarnemen
 Conversie (AANPASSEN)
 ```
 
-
 Als mens nemen we onze omgeving, de fysieke wereld, waar. Licht via onze ogen, aanraking met de huid, chemische stoffen in de lucht met onze neus, of bewegingen met ons evenwichtszintuig. Veel apparaten, die wij gebruiken, doen dat ook. Ze zijn uitgerust met sensoren. Een telefoon heeft bijvoorbeeld sensoren voor verplaatsing, licht (camera's), aanraking, warmte, geluid, magnetisme of radiogolven. Hiermee kunnen wij het apparaat bedienen, praten, foto's maken of onze positie bepalen. Door gegevens van sensoren op een slimme manier te combineren, kunnen veel dingen via een omweg gemeten worden, bijvoorbeeld het meten van verplaatsing door een camera te gebruiken.
 
-Een sensor zorgt dat een fysische grootheid (bijvoorbeeld licht of temperatuur) naar een elektrisch signaal wordt omgezet. Het signaal uit de sensor is analoog (kan oneindig veel waarden aannemen) en wordt vertaald in een digitaal signaal (een reeks blokjes met een hoge óf een lage spanning). Die truc wordt uitgevoerd door een analoog-digitaal omzetter (AD converter, figuur 2.6). Het resultaat is een binair signaal (0 of 1).
-
+Een sensor zorgt dat een fysische grootheid (bijvoorbeeld licht of temperatuur) naar een elektrisch signaal wordt omgezet. Het signaal uit de sensor is analoog (kan oneindig veel waarden aannemen) en wordt vertaald in een digitaal signaal (een reeks blokjes met een hoge óf een lage spanning). Die truc wordt uitgevoerd door een analoog-digitaal omzetter (AD converter, {numref}`fig_AD`). Het resultaat is een binair signaal (0 of 1).
 
 ```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-16.jpg?height=295&width=569&top_left_y=2054&top_left_x=1252
 :width: 70%
@@ -112,7 +110,9 @@ Tabel 2.1 Mens en digitale machine vergeleken
 ### Vragen
 ```{exercise}
 a. Deze module gaat over 'digitale technologie'. Er zijn hiervan al enkele voorbeelden langs gekomen. Welke toepassingen kun je nu nog meer bedenken?
+
 b. Digitaal staat tegenover analoog. Wat is het verschil tussen beide?
+
 c. Welke voordelen heeft digitale technologie ten opzichte van analoge technologie? Welke nadelen kun je noemen?
 ```
 
@@ -159,7 +159,7 @@ Een IC zet de spanning op uitgaande metaaldraadjes aan en uit op basis van binne
 Algoritmen (zie kader) kom je op veel meer plaatsen tegen dan alleen in software. Bedenk een paar.
 ```
 
-### Algoritme
+**Algoritme**
 
 Het woord algoritme herinnert aan de Arabische wiskundige Al-guarismi, die ook de basis legde voor Al-gabbr (algebra). Hij beschreef het oplossen van een (reken)probleem in stappen, die samen een algoritme vormen, dat je kunt volgen om een probleem op te lossen.
 
@@ -195,7 +195,6 @@ Maak een tekening met de stappen (tussenstations), die een foto aflegt als die v
 ## Uitvoeren (hoofdstuk 6)
 
 Aan pulsjes, de bits, in een digitaal systeem heb je alleen maar iets, als je er iets mee kunt doen. Digitale data van een foto wil je graag op een schermpje kunnen bekijken. Een rijtje bits kan gebruikt worden om één pixel van een schermpje licht te laten geven. Er zijn miljoenen enen en nullen nodig om een afbeelding of tekst op een beeldscherm te laten zien. Maar je kunt ook geluid maken via een stroompje door de spoel in een luidspreker. Op die manier vormen een scherm, luidspreker of motortje de uitvoer van een digitaal systeem en worden daarom actuatoren genoemd. Een digitaal signaal wordt vaak direct gebruikt om een beeldpuntje aan of uit te schakelen. Om een luidspreker te laten werken, moet het digitale signaal eerst omgezet worden in een analoog signaal door een digitaal-analoog omzetter (DA-converter). Dit analoge stroompje kan de luidspreker laten werken om je muziek af te spelen.
-
 
 ```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-19.jpg?height=315&width=1029&top_left_y=1987&top_left_x=839
 :width: 70%
@@ -234,7 +233,6 @@ de printplaat, naar de processor. De informatiestroom kan beide kanten op.
 richting
 ```
 
-
 ```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-20.jpg?height=61&width=195&top_left_y=1991&top_left_x=482
 :width: 70%
 :name: fig_
@@ -250,9 +248,7 @@ Tussen computers worden netwerkkabels of glasvezel gebruikt of draadloze overdac
 Photo by Mika Baumeister on Unsplash https://www.vecteezy.com/free-photos Pixelpatroon, Wikipedia: https://en.wikipedia.org/wiki/Bayer_filter
 ```
 
-
-
-## Voorbeeldschema: foto's met je mobiel.
+**Voorbeeldschema: foto's met je mobiel**
 
 Een mobiele telefoon heeft een camera waarmee je foto's en filmpjes maakt. De camera heeft daarvoor een sensor die via een lens licht opvangt. De sensor is verdeeld in kleine blokjes (pixels), die binnenkomend licht vertalen in een elektrisch stroompje. Naast elkaar zitten een pixel voor R (rood), G (groen) en B (blauw) licht, die samen één RGB beeldpunt vormen. De waarde voor R,G en $B$ is analoog, dat wil zeggen dat het alle mogelijke waarden kan aannemen.
 
@@ -276,7 +272,7 @@ Ingevuld analyseschema voor camera van mobiele telefoon
 In de toelichting over de camera van een mobiel, zijn de bouwstenen van de digitale technologie besproken aan de hand van een schema. Je kunt van een digitaal apparaat of systeem nu bekijken welk onderdeel welke functie heeft en hoe de verschillende stappen gedaan worden. Een digitale koortsthermometer is een voorbeeld, waarvan je aan de hand van de toelichting een lege versie van het analyseschema kunt invullen. Wat zit er in en welke functie heeft het? Wat ontbreekt?
 ```
 
-## Wat ga je doen?
+**Wat ga je doen?**
 
 a. Haal een digitale koortsthermometer uit elkaar (of gebruik er een die al uit elkaar gehaald is) en bekijk welke onderdelen aanwezig zijn.
 
@@ -288,7 +284,7 @@ d. Welke sensor(en) heeft de koortsthermometer?
 
 e. Welke actuator(en) zijn er aanwezig?
 
-## Nabespreking koortsthermometer
+**Nabespreking koortsthermometer**
 
 Een digitale koortsthermometer heeft in het algemeen geen datacommunicatie met de buitenwereld. Een mens bedient het apparaatje en die gebruikt de getoonde gegevens.
 
@@ -299,7 +295,6 @@ Samenwerken met andere apparaten is niet nodig. Het apparaat is ook niet afhanke
 In het vervolg van de module kom je meerdere systemen tegen, die we aan de hand van dit schema gaan beschrijven.
 
 ```{exercise}  Oefen met andere apparatuur
-
 Het schema is bedoeld om telkens andere apparaten of systemen te kunnen analyseren. In de volgende hoofdstukken staat telkens één onderdeel centraal. Aan de hand van voorbeelden leer je de bouwstenen van een digitaal systeem kennen, en kun je zelf aan de slag om de technologie in te zetten voor nieuwe toepassingen. Het schema is als werkblad beschikbaar.
 
 Vul het schema in voor één van onderstaande, of kies zelf een apparaat.
@@ -320,7 +315,6 @@ Digitale technologie is overal om ons heen. Er zijn diverse manieren ontwikkeld 
 Als je een goed beeld wilt krijgen hoe digitale systemen in elkaar zitten, helpt het om ze zelf in elkaar te zetten en te programmeren. Daar zijn inmiddels veel mooie materialen voor beschikbaar, zoals 'Single Board computers' als Arduino, Micro:bit en Raspberry Pi. Misschien heb je er al wat ervaring mee, want deze kleine apparaatjes worden steeds meer gebruikt op basis- en middelbare scholen.
 
 ```{exercise} 
-
 Voor we dieper in gaan op minicomputers, is het handig om het analyseschema er weer bij te pakken, en te kijken wat er allemaal in een setje van deze minicomputers aanwezig is. Gebruik voor deze opdracht een setje Arduino, Micro:bit of Raspberry Pi, of een ander systeem dat je beschikbaar hebt.
 
 a. Bekijk de componenten en deel ze in, volgens het analyseschema (leeg schema achterin de lesmodule of verkrijgbaar als los werkblad). Noteer de namen van de onderdelen in het schema en schrijf er bij wat de onderdelen doen.
@@ -330,36 +324,31 @@ b. Voor welke fysische grootheden (bijvoorbeeld licht of temperatuur) zijn er se
 c. In welke onderdelen zitten analoog/digitaal en digitaal/analoog omzetters? Zijn er sensoren die zelf een digitaal signaal lijken te leveren? Wat zegt dat over de ADomzetter?
 ```
 
-## Microcomputer en microcontroller
+**Microcomputer en microcontroller**
 
-![]
-```{figure}
+
+```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-24.jpg?height=458&width=903&top_left_y=1733&top_left_x=271
 :width: 70%
 :name: fig_
 
-
-```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-24.jpg?height=458&width=903&top_left_y=1733&top_left_x=271)
-
-Figuur 2.14 Arduino code
+Arduino code
+```
 
 De Raspberry Pi is een microcomputer, een kleine computer waar je een scherm en een toetsenbord op kunt aansluiten, die een verbinding heeft met het internet, en die je kunt programmeren. Eigenlijk een gewone computer, maar dan veel kleiner en met een aantal aansluitingen waarmee je iets uit kunt lezen (een druktoets) of aan kunt sturen (een LED). De Arduino en de Micro:bit zijn microcontrollers: je kunt er een programma opzetten, waarmee je een sensor uitleest en bijvoorbeeld een LCD display aanstuurt. Je schrijft dat programma op een computer en 'upload' het op de microcontroller. Je kunt maar één programma tegelijk uitvoeren op deze microcontrollers, maar je kunt 'm wel steeds opnieuw programmeren.
 
-```{exercise} 
-
+````{exercise} 
 Zoek uit hoeveel verschillende versies er zijn van deze microcontrollers en microcomputer.
-![]
-```{figure}
+
+```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-25.jpg?height=541&width=1737&top_left_y=278&top_left_x=222
 :width: 70%
 :name: fig_
 
-
-```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-25.jpg?height=541&width=1737&top_left_y=278&top_left_x=222)
-
-Figuur 2.15 De bordjes van Arduino, Micro:bit (microbit.org) en Raspberry Pi (https://www.raspberrypi.com/software/).
+De bordjes van Arduino, Micro:bit (microbit.org) en Raspberry Pi (https://www.raspberrypi.com/software/)
 ```
 
-```{exercise} 
+````
 
+```{exercise} 
 Elk van deze drie kent zijn eigen programmeertaal (talen). Er bestaan overzichtjes op het internet. Geef het aantal programmeertalen van alle drie de types én het linkje naar een website, die deze informatie betrouwbaar en up-to-date weergeeft.
 ```
 
@@ -371,19 +360,18 @@ Zoeken naar projecten en software Er is enorm veel te vinden over bouwen en prog
 
 Alleen Arduino gaat nog een stapje verder in de Open Source gedachte, omdat het Open Source Hardware is. Het bouwplan van de Arduino staat online en iedereen mag er een (na)maken. Als je wilt, kun je zelfs je eigen Arduino bouwen (https://www.arduino.cc/en/main/standalone of https://www.instructables.com/How-to-make-your-own-Arduino-board/).
 
-Zo komt het dat je in China voor heel weinig geld een
+Zo komt het dat je in China voor heel weinig geld een Arduino kloon kunt kopen, terwijl de Micro:bit en Raspberry Pi alleen gemaakt worden door fabrikanten in de EU. Die laatste zijn vaak wat duurder, maar ook wat steviger en betrouwbaarder.
 
-## Programmeren
+```{note} Programmeren
 
 Een computer werkt met instructies (een programma, software) geschreven in een programmeertaal, zoals Arduino taal, C, Python, machinetaal, Visual Basic enzovoorts. Een programmeur schrijft zulke software.
 
 Elke taal definieert <variabelen>, heeft **commando's**, <<herhaling>> en een duidelijke markering van \{begin\} en \{eind\} van een opdracht. In elk goed programma (code) staat uitleg (//comments//). De programmeur beschrijft wat het blokje code doet.
 
 Een werkend programma is fijn. Maar de uitleg is nog fijner, omdat iemand anders jaren later het programma kan begrijpen en aanpassen.
+```
 
-Arduino kloon kunt kopen, terwijl de Micro:bit en Raspberry Pi alleen gemaakt worden door fabrikanten in de EU. Die laatste zijn vaak wat duurder, maar ook wat steviger en betrouwbaarder.
-
-## Waarom zijn ze handig?
+**Waarom zijn ze handig?**
 
 Waarom zijn microcontrollers en microcomputers zo populair? Voor het antwoord op die Vraag moeten we terug in de tijd. Vroeger, voor de microcontrollers, maakten elektronische apparaten gebruik van printplaten: plaatjes waarop de weerstanden, condensatoren en transistoren gesoldeerd zijn, onderling verbonden met een netwerk van geleidende koperbanen. Voor elke kleine verandering moet zo'n printje opnieuw gemaakt worden.
 
@@ -398,22 +386,23 @@ Dimmen voor LEDs: een printje met variabele draaiweerstand (links) en digitaal m
 
 Een microcontroller werkt veel flexibeler, omdat je 'm kunt programmeren. Je sluit er een LED en een potmeter op aan en schrijft een computerprogramma om de potmeter uit te lezen. Die waarde gebruik je, na wat rekenwerk, om de helderheid van de LED aan te sturen. Maar vervang de potmeter door een drukknop en verander wat aan het computerprogramma, dan kun je de helderheid ook regelen met de tijd die de schakelaar is ingedrukt en hem met een korte klik aan en weer uit zetten.
 
-## Leren
+**Leren**
 
 Om te leren werken met Arduino, Micro:bit en Raspberry Pi heb je eigenlijk geen lagere of middelbare school meer nodig. Op internet wemelt het van de uitleg, lessen en filmpjes. Op de websites van deze single board computers zijn ook lessen, uitleg en achtergrondinformatie beschikbaar. Als je vastloopt en het niet meer weet, zijn er internetforums waar andere gebruikers je kunnen helpen als je vragen hebt.
 
-## Beroepen
+```{note} Beroepen
 
 In de wereld van de digitale technologie is veel te doen. De kans is groot dat je zelf, via een onverwachte route, in deze wereld terecht komt.
 
 FutureNL heeft hier de serie DigiDoeners over gemaakt. De labels van schoolvakken laten zien dat het heel breed is.
 https://www.lessonup.com/nl/channel/futurenl/series/7b1fc5805d7f730780186 73d
 https://www.lessonup.com/nl/channel/futurenl/series/b8914c0f6056a12da919c 22a
+```
 
 ```{exercise}  Wat is er allemaal te leren in die digitale wereld?
-
 Hoe leer je programmeren? Bekijk: https://www.want.nl/leren-programmeren-10-stappen/ Hoe doen de professionals dat? Iemand die software schrijft gaat eerst kijken wat er al is:
 https://www.want.nl/deze-tweehonderd-websites-apps-en-boeken-moet-je-als-ontwerperkennen/.
+
 Zoek op internet nog wat verder. Hoe pakt een professional het programmeren aan? Op welke manier verschilt zijn/haar aanpak van die van jou?
 ```
 
@@ -424,7 +413,6 @@ Let wel op. Techniek is soms taai. Dingen werken niet, je snapt niet waarom en j
 Mocht je je nou afvragen waarom je deze tekst hebt gelezen, omdat alles toch online te vinden is?! We hebben hier een globaal overzicht gegeven en proberen uit te leggen, waarom dingen zijn zoals ze zijn. Wat hier staat vind je dan weer niet online, omdat dat vaak te gedetailleerd is of op een niveau, dat voor beginners te hoog gegrepen is. En natuurlijk, omdat dit het vak nlt is.
 
 ```{exercise} Welke informatie is er? (Klasopdracht)
-
 Maak met je klas een overzicht van websites met tutorials, achtergrondinformatie en projecten. Voor beginners, maar als je wat verder bent, ook voor intermediate of advanced programmeurs. Zet dat overzicht op een plek waar iedereen bij kan.
 
 Wat nu als jullie de zoveelste klas zijn, die dit doen? Je kunt dan laten zien welke website(s) jullie het meeste gebruikten. Welke zijn er nieuw (en misschien wel beter!)? Maak een nieuwe top 10 en vul aan met nieuwe binnenkomers.
@@ -442,4 +430,20 @@ Je leert veel door dingen zelf te maken. We geven in het laatste deel van elk ho
 In de handleidingen bij de Arduino, Raspberry Pi of Micro:Bit zijn tientallen opdrachten te vinden waarmee je kunt starten. Als je nooit met zulke apparatuur gewerkt hebt, kun je beginnen om een LED te laten branden, een tekstje op een display te toveren of een motortje te laten draaien.
 
 Afhankelijk van de tijd kun je een paar van deze opdrachten uitvoeren en je verdiepen in de manier waarop de programma's (code) van de microcomputer gemaakt zijn. Gebruik hiervoor de uitleg in de starthandleiding van je apparaat.
+```
+
+```{exercise}
+Op de leerlingenwebsite bij deze module zijn praktische uitleg en maakopdrachten te vinden.
+Als je ergens mee aan de slag wilt, overleg met je docent of TOA wat er op school mogelijk is.
+De instructie heeft een vaste structuur:
+
+**Titel opdracht**
+
+1. Korte beschrijving: wat is het en waar is het voor bedoeld? Hoe ingewikkeld?
+2. Wat heb je nodig? (materialenlijst)
+3. Bouwinstructie
+4. Software / code die gebruikt wordt en waar te vinden
+5. Wat hebben we geleerd over de componenten, code en principes (verwijzen naar
+uitleg in de bijlagen).
+6. Waar kan (de kennis uit) dit project voor worden gebruikt in de praktijk?
 ```

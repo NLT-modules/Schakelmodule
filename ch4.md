@@ -9,11 +9,10 @@ downloads:
 ---
 # Verwerken en beslissen
 
-```{figure}
+```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-38.jpg?height=1158&width=1529&top_left_y=312&top_left_x=232
 :width: 70%
 :name: fig_
 
-(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-38.jpg?height=1158&width=1529&top_left_y=312&top_left_x=232)
 ```
 
 ## Leerdoelen
