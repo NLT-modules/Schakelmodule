@@ -74,8 +74,6 @@ Schema van klein stukje belichtingsmaskers in chipmachine voor onderdelen van é
 Productiestappen voor een wafer met microchips
 ```
 
-
-
 ```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-41.jpg?height=974&width=1582&top_left_y=224&top_left_x=240
 :width: 70%
 :name: fig_
@@ -87,8 +85,7 @@ Voor het belichten van chips zijn uiterst precieze Lithografiemachines nodig. Da
 
 ```{iframe} https://www.youtube.com/embed/5YJHwgoE3pE?si=bfSyK-m56QPo3WOt
 
-
-Buurten bij ASML - Wat is een chip? Hoe werkt een chipmachine? ()
+Buurten bij ASML - Wat is een chip? Hoe werkt een chipmachine?
 ```
 
 ```{iframe} https://www.youtube.com/embed/C4gYf-eaZTE?si=82cyntMOQp0RQjng
@@ -105,7 +102,6 @@ In de bijlagen in de moduledatabase is veel meer te lezen over technieken die bi
 De ontwikkeling van de miniatuurversie van de transistor (elektronen-schakelaar, uitgevonden rond 1950) zoals die in je telefoon of computer zit laat zien dat het steeds sneller en kleiner kan. In een moderne microprocessors zitten miljoenen transistoren. MOS-techniek zorgt dat die op grote schaal en goedkoop te maken zijn. Met deze techniek worden ook diodes gemaakt, die zorgen dat elektronen maar in één richting kunnen lopen. Een bekende diode is de LED (Light Emitting Diode). Dat de elektronen hier maar in één richting doorheen kunnen kun je uitproberen. De LED geeft alleen licht als hij in een stroomkring in de juiste richting in aangesloten: met het lange pootje op de pluspool. Ook de condensator, die elektronen kan opslaan en afgeven, is een belangrijke bouwsteen op de chip.
 
 ## Programmeren van een chip
-
 Chip-ontwerpers streven er naar om véél componenten bij elkaar te pakken op één chip. Via contactpuntjes aan de buitenkant van de chip staat die in verbinding met de pinnetjes van de behuizing. Zo staat de chip in verbinding met de andere componenten van het apparaat en krijgt de chip stroom. Hoe ingewikkelder de chip, hoe meer contactpinnetjes er zijn. Door de stroom op bepaalde pinnetjes aan en andere uit te zetten, kunnen de transistoren in een bepaalde stand gezet worden. Chips kunnen dat schakelen alleen doen als er spanning op de voedingspin staat.
 
 ```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-42.jpg?height=626&width=572&top_left_y=755&top_left_x=1390
@@ -177,7 +173,7 @@ Over computerchips en programma's is veel meer te ontdekken. Bijvoorbeeld: de ar
 
 Bij kunstmatige intelligentie (Artificial Intelligence, AI) maakt de software zelf allerlei instellingen die we niet kunnen zien. Dat gebeurt in programma's die kunstmatige neurale netwerken (Artificial Neural Networks, ANN) genoemd worden. Hierdoor kan de software leren door voortdurend patronen te vergelijken. De software kan zo bijvoorbeeld beelden herkennen, zoals bij de gezichtsherkenning van een fotocamera of het zoeken naar bepaalde vormen in afbeeldingen. Doordat de computer zelf de algoritmen aanpast, is het ook niet meer te achterhalen hoe die precies in elkaar zitten. Daarom verzinnen wetenschappers methoden om de algoritmen na te bouwen en te vergelijken met wat AI heeft gedaan. Hoe AI werkt, kun je in een vervolgmodule ontdekken (zie H8).
 
-**Kunstmatige Intelligentie: heel geschikt voor het leren herkennen van beelden.**
+**Kunstmatige Intelligentie: heel geschikt voor het leren herkennen van beelden**
 
 Zoek Wally! Een bekende tekenaar van plaatjesboeken voor kinderen tekende in iedere afbeelding van een boek het figuurtje Wally. Voor de lezers was het de uitdaging om die te ontdekken. We zijn als mensen visueel ingesteld, en heel behendig in het analyseren van beelden, maar het herkennen van wat we zien Vraagt oefening. Zeker als het ingewikkelde en niet-alledaagse beelden zijn. In een foto herkennen we snel dat er menselijke gezichten op staan. Maar het is een stuk lastiger om elke afgebeelde persoon te herkennen, daarvoor kennen we te weinig mensen. Computers die gezichten kunnen herkennen hebben de mogelijkheid om in grote databases te zoeken en razendsnel vergelijkingen te maken tussen het afgebeelde gezicht en de afbeeldingen in de database. Door de verbeterde rekenkracht van computers wordt
 
@@ -253,7 +249,7 @@ Als je een onderdeel, zoals de temperatuursensor, op een ingang van de Arduino a
 
 Om de Arduino te vertellen wat die allemaal moet doen met die in- en uitgangen moet je deze programmeren. Je moet dus eigenlijk een app maken voor de Arduino. Dat doe je op de computer. Als het programma klaar is, stuur je het via de USB naar de Arduino en die gaat vervolgens doen wat je geprogrammeerd hebt. Het programmeren doe je in de Arduino IDE.
 
-Het bouwen en programmeren van een apparaat kan een stuk eenvoudiger als je dit vooraf kunt samenstellen en testen met je computer. Voor Arduino kan dat heel mooi in een online omgeving: [TinkerCad](http://tinkercad.com).  Ga naar tinkercad.com en maak een account aan.
+Het bouwen en programmeren van een apparaat kan een stuk eenvoudiger als je dit vooraf kunt samenstellen en testen met je computer. Voor Arduino kan dat heel mooi in een online omgeving: [TinkerCad](http://tinkercad.com). Ga naar tinkercad.com en maak een account aan.
 
 Je kunt hier met plaatjes je apparaat samenstellen en de code (sketch) schrijven (in blokkentaal, of in de programmeertaal C). Je kunt het programma opslaan, downloaden en in de echte Arduino laden (*.ino bestand). Je kunt ook de Arduino-IDE (Integrated Development Environment) gebruiken om je sketch te maken of een bestaande sketch aan te passen. Als je het fysieke apparaat bouwt en de sketch laadt (via de Arduino IDE), doet deze wat je al uitgeprobeerd hebt. Tenminste: dat is wat je kunt verwachten. Uiteraard moet je testen of dat echt zo is. Daarna kun je de echte metingen gaan doen.
 
