@@ -25,8 +25,9 @@ project:
     - file: ch1.md
     - file: ch2.md
     - file: ch3.md
-    - file: module_p2.md
+    - file: ch4.md
     - file: ch5.md
+    - file: ch6.md
     - file: Eindopdracht.md 
     - file: Appendix.md
       title: Appendix

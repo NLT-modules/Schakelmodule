@@ -8,13 +8,13 @@ downloads:
     - file: Eindopdracht.md
 ---
 
-## Eindopdracht: Digitaal device ontwerpen
+# Eindopdracht: Digitaal device ontwerpen
 
 ## Leerdoelen
 
-7.1 Je leert de ontwerpcyclus beheersen en toepassen om een werkend prototype te kunnen bouwen dat een probleem oplost.
-7.2 Je krijgt inzicht hoe innovaties in de tijd veranderen
-7.3 Je maakt kennis met opdrachtgevers en realistische opdrachten uit het bedrijfsleven
+1. Je leert de ontwerpcyclus beheersen en toepassen om een werkend prototype te kunnen bouwen dat een probleem oplost.
+2. Je krijgt inzicht hoe innovaties in de tijd veranderen
+3. Je maakt kennis met opdrachtgevers en realistische opdrachten uit het bedrijfsleven
 
 ## Projecten
 

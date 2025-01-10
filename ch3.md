@@ -7,28 +7,15 @@ downloads:
     - file: exports/ch3.pdf
     - file: ch3.md
 ---
-# Keuzeopdrachten
 
-Op de leerlingenwebsite bij deze module zijn praktische uitleg en maakopdrachten te vinden.
-Als je ergens mee aan de slag wilt, overleg met je docent of TOA wat er op school mogelijk is.
-De instructie heeft een vaste structuur:
+# Waarnemen en sensoren
 
-## Titel opdracht
-
-1. Korte beschrijving: wat is het en waar is het voor bedoeld? Hoe ingewikkeld?
-2. Wat heb je nodig? (materialenlijst)
-3. Bouwinstructie
-4. Software / code die gebruikt wordt en waar te vinden
-5. Wat hebben we geleerd over de componenten, code en principes (verwijzen naar uitleg in de bijlagen).
-6. Waar kan (de kennis uit) dit project voor worden gebruikt in de praktijk?
-7. Waarnemen en sensoren
-![]
 ```{figure}
 :width: 70%
 :name: fig_
 
-
-```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-29.jpg?height=1200&width=1597&top_left_y=314&top_left_x=224)
+(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-29.jpg?height=1200&width=1597&top_left_y=314&top_left_x=224)
+```
 
 ## Leerdoelen
 
@@ -51,13 +38,13 @@ De instructie heeft een vaste structuur:
 Een digitaal apparaat moet de omgeving kunnen waarnemen. Dat is nodig wanneer een mens het apparaat wil gebruiken. Bij een computer zijn daar het toetsenbord, de camera en muis voor bedoeld. Een druktoets is een sensor, die aanraking waarneemt en die deze informatie doorgeeft aan de processor. Toch kan bij een apparaat zowel invoer- als uitvoerinterface met de mens ontbreken. In dat geval vormt het apparaat een stukje van het geheel, dat met andere apparaten samenwerkt. Je kunt een draadloos toetsenbord en een draadloze muis zien als aparte, maar niet los van elkaar werkende, digitale apparaten. Immers: de muis is bedoeld om bewegingen en keuzes van de gebruiker aan de computer door te geven. In een computermuis zitten meerdere sensoren. Samen zorgen ze dat veranderingen in de fysieke omgeving (vingerbeweging, schuifbeweging) worden omgezet in een digitaal signaal dat via een draadje of via radiogolven aan een ontvanger (ook een sensor) in de computer wordt doorgegeven.
 
 
-![]
+
 ```{figure}
 :width: 70%
 :name: fig_
 
-
-```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-30.jpg?height=295&width=312&top_left_y=595&top_left_x=1506)
+(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-30.jpg?height=295&width=312&top_left_y=595&top_left_x=1506)
+```
 
 Figuur 3.1 Interface: Invoer in het systeem
 
@@ -66,13 +53,14 @@ Elke sensor in de elektronica of digitale technologie zorgt uiteindelijk dat een
 ## Temperatuursensor
 
 Temperatuur heeft invloed op bijvoorbeeld de dichtheid van stoffen. Het vloeibare metaal kwik zet uit als het warm wordt, net als alcohol. Doe de vloeistof in een buisje, zet er streepjes naast en je kunt de krimp en uitzetting gebruiken als maat voor de temperatuur: de thermometer. Elektrische stroom, die door metaal of ander geleidend materiaal gaat, ondervindt weerstand die varieert met de temperatuur. Dat principe wordt gebruikt om een temperatuursensor voor een elektronische thermometer te maken. De weerstand is te bepalen door een kleine spanning (bijvoorbeeld 1 V ) op de sensor te zetten. Als de temperatuur verandert, zal het spanningsverschil over de weerstand ook veranderen. Voor elektronische metingen wordt tegenwoordig vaak een NTC schakeling als sensor gebruikt.
-![]
+
+
 ```{figure}
 :width: 70%
 :name: fig_
 
-
-```(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-30.jpg?height=215&width=227&top_left_y=2068&top_left_x=229)
+(https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-30.jpg?height=215&width=227&top_left_y=2068&top_left_x=229)
+```
 
 Figuur 3.2
 Interface: uitvoer van het systeem
