@@ -37,7 +37,7 @@ downloads:
 Een digitaal apparaat moet de omgeving kunnen waarnemen. Dat is nodig wanneer een mens het apparaat wil gebruiken. Bij een computer zijn daar het toetsenbord, de camera en muis voor bedoeld. Een druktoets is een sensor, die aanraking waarneemt en die deze informatie doorgeeft aan de processor. Toch kan bij een apparaat zowel invoer- als uitvoerinterface met de mens ontbreken. In dat geval vormt het apparaat een stukje van het geheel, dat met andere apparaten samenwerkt. Je kunt een draadloos toetsenbord en een draadloze muis zien als aparte, maar niet los van elkaar werkende, digitale apparaten. Immers: de muis is bedoeld om bewegingen en keuzes van de gebruiker aan de computer door te geven. In een computermuis zitten meerdere sensoren. Samen zorgen ze dat veranderingen in de fysieke omgeving (vingerbeweging, schuifbeweging) worden omgezet in een digitaal signaal dat via een draadje of via radiogolven aan een ontvanger (ook een sensor) in de computer wordt doorgegeven.
 
 ```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-30.jpg?height=295&width=312&top_left_y=595&top_left_x=1506
-:width: 70%
+:width: 50%
 :name: fig_
 
 Interface: Invoer in het systeem
@@ -80,6 +80,7 @@ veranderen. Je kunt ermee volstaan om bijvoorbeeld eens per uur af te lezen. We 
 ```{exercise}
 
 a. Welke fysische grootheden veranderen wel heel snel?
+
 b. Leg uit waarom de samplefrequentie minstens tweemaal zo hoog moet zijn als de hoogst voorkomende frequentie?
 ```
 
@@ -126,7 +127,7 @@ Op de [leerlingensite van de module](https://maken.wikiwijs.nl/171772/Schakelmod
 
 **Sensoren voor hartslag, snelheid, positie**
 
-Je gebruikt steeds meer apparaten die met internet verbonden zijn: muziek luisteren via Spotify, de verwarming aanzetten met een app, video's kijken op je telefoon via Youtube, de lamp aan en uit zetten via wifi of Bluetooth, of betalen via je telefoon. We noemen dit ook wel het Internet of Things ( $I \circ T$ ). In huis gebeurt dat vaak al via wifi. Dit is een van de redenen dat 5G wordt aangelegd, zodat alle apparaten heel snel met elkaar kunnen communiceren via een mobiele internet verbinding.
+Je gebruikt steeds meer apparaten die met internet verbonden zijn: muziek luisteren via Spotify, de verwarming aanzetten met een app, video's kijken op je telefoon via Youtube, de lamp aan en uit zetten via wifi of Bluetooth, of betalen via je telefoon. We noemen dit ook wel het Internet of Things ( IoT ). In huis gebeurt dat vaak al via wifi. Dit is een van de redenen dat 5G wordt aangelegd, zodat alle apparaten heel snel met elkaar kunnen communiceren via een mobiele internet verbinding.
 
 In deze opdracht ga je voor een situatie uitzoeken hoe het werkt: een sporthorloge en een app die de metingen kan vastleggen. Je denkt na over vragen als: via welke stappen wordt de informatie verzonden? Waar is beveiliging van gegevens van belang? Waar wordt de informatie opgeslagen? Welke gegevens zijn nodig om de taak uit te voeren? Etc.
 
@@ -146,16 +147,16 @@ Een sporthorloge Bron: Coolblue
 https:///Www.androidplanet.n//nieuws/smartwatchstraling/(afbeelding, wordt 3.8)
 ```
 
-Je onderzoekt een sporthorloge in combinatie met het gebruik van Strava. Hoewel er allerlei verschillende platforms zijn waarop je de gegevens van een sporthorloge kunt verzamelen, is in deze opdracht gekozen voor Strava, omdat dit het meest gebruikte platform is. Maar overal waar je leest over Strava, kun je ook een de naam van een andere, soortgelijke app invullen. Voorbeelden zijn: Nike Run Club, RunKeeper, Endomondo etc. (zie figuur 3.7 en 3.8). Bespreek met je docent wat je/jullie gaan gebruiken in de klas. Je hoeft niet perse een sporthorloge te hebben om deze apps te kunnen gebruiken. bij heel veel activiteiten heb je al genoeg aan een telefoon.
+Je onderzoekt een sporthorloge in combinatie met het gebruik van Strava. Hoewel er allerlei verschillende platforms zijn waarop je de gegevens van een sporthorloge kunt verzamelen, is in deze opdracht gekozen voor Strava, omdat dit het meest gebruikte platform is. Maar overal waar je leest over Strava, kun je ook een de naam van een andere, soortgelijke app invullen. Voorbeelden zijn: Nike Run Club, RunKeeper, Endomondo etc. (zie {ref}`fig_strava` en {ref}`fig_strava2` ). Bespreek met je docent wat je/jullie gaan gebruiken in de klas. Je hoeft niet perse een sporthorloge te hebben om deze apps te kunnen gebruiken. bij heel veel activiteiten heb je al genoeg aan een telefoon.
 
 ```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-34.jpg?height=834&width=1557&top_left_y=234&top_left_x=232
 :width: 70%
-:name: fig_
+:name: fig_strava
 
 Screenshot van Endomondo van een fietsroute van Erik Dekker (tijdens de lock-down, in plaats van Italië) en overzichten van de data die de app verzamelt en presenteert.
 ```
 
-Figuur 3.7 
+
 
 ```{exercise} Sport-apps.
 Kies twee sport-apps uit (zie het rijtje in bovenstaande tekst). Zoek uit wat de overeenkomsten en verschillen zijn tussen deze apps.
@@ -189,7 +190,7 @@ Als je een sportactiviteit doet met je telefoon of sporthorloge, kun je de gegev
 
 ```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-35.jpg?height=717&width=1754&top_left_y=1252&top_left_x=157
 :width: 70%
-:name: fig_
+:name: fig_strava2
 
 Screenshots van de gegevens van een sportactiviteit in Strava: een rondje hardlopen.
 ```

@@ -78,14 +78,6 @@ In het schema van een digitaal systeem (fig. 2.1) zijn vier belangrijke blokken 
 Waarnemen
 ```
 
-```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-16.jpg?height=215&width=215&top_left_y=1914&top_left_x=104
-:width: 20%
-:name: fig_Conversie
-:figclass: margin
-
-Conversie (AANPASSEN)
-```
-
 Als mens nemen we onze omgeving, de fysieke wereld, waar. Licht via onze ogen, aanraking met de huid, chemische stoffen in de lucht met onze neus, of bewegingen met ons evenwichtszintuig. Veel apparaten, die wij gebruiken, doen dat ook. Ze zijn uitgerust met sensoren. Een telefoon heeft bijvoorbeeld sensoren voor verplaatsing, licht (camera's), aanraking, warmte, geluid, magnetisme of radiogolven. Hiermee kunnen wij het apparaat bedienen, praten, foto's maken of onze positie bepalen. Door gegevens van sensoren op een slimme manier te combineren, kunnen veel dingen via een omweg gemeten worden, bijvoorbeeld het meten van verplaatsing door een camera te gebruiken.
 
 Een sensor zorgt dat een fysische grootheid (bijvoorbeeld licht of temperatuur) naar een elektrisch signaal wordt omgezet. Het signaal uit de sensor is analoog (kan oneindig veel waarden aannemen) en wordt vertaald in een digitaal signaal (een reeks blokjes met een hoge óf een lage spanning). Die truc wordt uitgevoerd door een analoog-digitaal omzetter (AD converter, {numref}`fig_AD`). Het resultaat is een binair signaal (0 of 1).
@@ -176,7 +168,7 @@ Figuur 2.9 Dataopslag
 Figuur 2.10 Uitvoeren
 
 ```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-19.jpg?height=204&width=210&top_left_y=1891&top_left_x=89
-:width: 70%
+:width: 30%
 :name: fig_ Conversie2
 
 Conversie
@@ -227,14 +219,14 @@ Tussen de vakken in het analyseschema zijn verbindingen getekend. Hiermee wordt 
 de printplaat, naar de processor. De informatiestroom kan beide kanten op.
 
 ```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-20.jpg?height=110&width=102&top_left_y=1847&top_left_x=1548
-:width: 70%
+:width: 30%
 :name: fig_richting
 
 richting
 ```
 
 ```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-20.jpg?height=61&width=195&top_left_y=1991&top_left_x=482
-:width: 70%
+:width: 30%
 :name: fig_
 
 Tussen computers worden netwerkkabels of glasvezel gebruikt of draadloze overdacht via radiogolven. Een deel van die verbindingen hoort bij het vakje datatransport en -opslag.
@@ -395,8 +387,8 @@ Om te leren werken met Arduino, Micro:bit en Raspberry Pi heb je eigenlijk geen 
 In de wereld van de digitale technologie is veel te doen. De kans is groot dat je zelf, via een onverwachte route, in deze wereld terecht komt.
 
 FutureNL heeft hier de serie DigiDoeners over gemaakt. De labels van schoolvakken laten zien dat het heel breed is.
-https://www.lessonup.com/nl/channel/futurenl/series/7b1fc5805d7f730780186 73d
-https://www.lessonup.com/nl/channel/futurenl/series/b8914c0f6056a12da919c 22a
+https://www.lessonup.com/nl/channel/futurenl/series/7b1fc5805d7f73078018673d
+https://www.lessonup.com/nl/channel/futurenl/series/b8914c0f6056a12da919c22a
 ```
 
 ```{exercise}  Wat is er allemaal te leren in die digitale wereld?
