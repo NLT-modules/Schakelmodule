@@ -20,6 +20,7 @@ project:
     - file: exports/book.pdf
   
   toc:
+    - file: index.md
     - file: intro.md
     - file: NLT.md
     - file: ch1.md
