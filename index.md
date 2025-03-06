@@ -3,7 +3,7 @@ title: NLT Schakelmodule
 site:
   hide_outline: true
   hide_toc: true
-  hide_title_block: true
+  hide_title_block: false
 downloads:
     - file: exports/book.pdf
 ---
