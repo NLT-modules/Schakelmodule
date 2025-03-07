@@ -221,7 +221,7 @@ Noteer deze processen in de blauw omlijnde vakken in het analyseschema. Gebruik 
 
 Met sensoren kun je allerlei onderzoek doen, zelf bouwen en gebruiken. Onderstaand een aantal suggesties. Kies er één uit:
 
-1. Een windmeter maken is interessant en goed te doen, bijvoorbeeld zoals op https://www.microsoft.com/en-us/education/education-workshop/anemometer.aspx
+1. Een windmeter maken is interessant en goed te doen, bijvoorbeeld zoals op https://www.instructables.com/Anemometer-1/
 2. Onderzoek de eigenschappen van één of meerdere sensoren uit het sporthorloge (wat kan de sensor meten, welke gevoeligheid en met welke nauwkeurigheid?)
 3. Haal een digitale koortsthermometer uit elkaar en onderzoek de eigenschappen van de temperatuursensor. Andere kant: kun je de koortsthermometer laten werken met een andere, zelf gemaakte, sensor?
 4. Meten van vochtigheid: geleidbaarheid. Gebruik hiervoor de standaard beschikbare vochtigheidssensoren bij Arduino. Kalibreer de sensor voor toepassing in een relevante situatie. Bijvoorbeeld: een tuinder laten weten op welk moment zijn planten water nodig hebben of een waarschuwing dat een ruimte geventileerd moet worden omdat de luchtvochtigheid te hoog is.
