@@ -8,8 +8,6 @@ downloads:
     - file: exports/book.pdf
 ---
 
-Demo voor Joris.
-
 ```{figure} https://cdn.mathpix.com/cropped/2024_12_20_510ffc175a3910aebf8dg-01.jpg?height=1764&width=1680&top_left_y=611&top_left_x=182
 :width: 90%
 :name: fig_start
