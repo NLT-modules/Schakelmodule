@@ -16,7 +16,7 @@ const tempArchive = path.resolve(
 // a commit. Published versions:
 //   https://gitlab.tudelft.nl/api/v4/projects/28652/packages?package_name=editor-dist
 const downloadUrl =
-   "../myst-editor.tar.gz";
+   "https://github.com/NLT-modules/Schakelmodule/myst-editor.tar.gz";
   // "https://gitlab.tudelft.nl/api/v4/projects/28652/packages/generic/editor-dist/1.10.0-dev/myst-editor.tar.gz";
 
 let downloadTask = null;
