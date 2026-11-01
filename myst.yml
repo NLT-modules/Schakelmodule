@@ -11,6 +11,9 @@ project:
     lite: true
   github: https://github.com/NLT-modules/Schakelmodule
 
+  plugins:
+    - editor.mjs
+    
   exports:
     - format: pdf
       template: plain_latex_book # myst templates list --tex
